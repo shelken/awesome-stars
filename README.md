@@ -34,6 +34,7 @@
 - [Perl](#perl)
 - [Python](#python)
 - [Roff](#roff)
+- [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
 - [Swift](#swift)
@@ -125,6 +126,7 @@
 
 ## Go 
 
+- [hteen/apple-store-helper](https://github.com/hteen/apple-store-helper) - Apple Store iPhone预约助手
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
@@ -460,6 +462,10 @@
 ## Roff 
 
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Support for Armbian in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+
+## Ruby 
+
+- [Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy) - Make using Rime easy.
 
 ## Rust 
 
