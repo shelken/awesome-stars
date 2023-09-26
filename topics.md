@@ -523,6 +523,7 @@
 
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of K8s Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GP
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
@@ -808,6 +809,7 @@
 
 ## others 
 
+- [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [hteen/apple-store-helper](https://github.com/hteen/apple-store-helper) - Apple Store iPhone预约助手
 - [oxalica/nil](https://github.com/oxalica/nil) - NIx Language server, an incremental analysis assistent for writing in Nix.
@@ -836,7 +838,7 @@
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
-- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [jcleng/nixos-configuration](https://github.com/jcleng/nixos-configuration) - 
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
@@ -875,7 +877,7 @@
 - [zgao264/Pornhub-Video-Downloader-Plugin](https://github.com/zgao264/Pornhub-Video-Downloader-Plugin) - Pornhub视频下载Chrome插件
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [elanmart/cbp-translate](https://github.com/elanmart/cbp-translate) - 
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs. This project does not store and distribut
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. This project does not store and distribute copies of documents, but only provides indexing and searching.
 - [Jonnyan404/zerotier-planet](https://github.com/Jonnyan404/zerotier-planet) - 一分钟自建zerotier-planet
 - [JohnCoates/Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac
 - [xiaoluoboding/bookmark.style](https://github.com/xiaoluoboding/bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
