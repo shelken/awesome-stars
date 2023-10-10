@@ -404,6 +404,7 @@
 
 ## Python 
 
+- [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [lucasheld/uptime-kuma-api](https://github.com/lucasheld/uptime-kuma-api) - A Python wrapper for the Uptime Kuma Socket.IO API
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 导入机场订阅链接(支持v2/clash订阅)或是含有节点信息的本地文件，根据配置模板生成 sing-box 使用的config.json(可分组筛选节点)，可导入到sfi，sfa，tvos。使用clash api切换节点
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
