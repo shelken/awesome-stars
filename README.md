@@ -127,6 +127,8 @@
 
 ## Go 
 
+- [MetaCubeX/Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) - A rule-based tunnel in Go.
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go.
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [hteen/apple-store-helper](https://github.com/hteen/apple-store-helper) - Apple Store iPhone预约助手
@@ -189,7 +191,7 @@
 
 ## Java 
 
-- [javaoffers/briefest](https://github.com/javaoffers/briefest) - A high-performance easy orm framework. To eliminate complex SQL, Improve project maintainability
+- [javaoffers/briefest](https://github.com/javaoffers/briefest) - A high-performance easy orm framework.
 - [Flying9001/springBootDemo](https://github.com/Flying9001/springBootDemo) - springBoot demo
 - [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) - WEB VIDEO PLATFORM是一个基于GB28181-2016标准实现的网络视频平台，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR、DVR接入。支持国标级联，支持rtsp/rtmp等视频流转发到国标平台，支持rtsp/rtmp等推流转发到国标平台。
 - [rookie-ricardo/BeanMappingKey](https://github.com/rookie-ricardo/BeanMappingKey) - An object mapping jetbrains plugin, it will automatically generate the get/set code between the two objects.
@@ -544,6 +546,7 @@
 
 ## TypeScript 
 
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
