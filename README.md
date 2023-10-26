@@ -129,6 +129,8 @@
 
 ## Go 
 
+- [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) - Community managed domain list. Generate geosite.dat for V2Ray.
@@ -430,7 +432,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR) - CnOCR: Awesome Chinese/English OCR toolkits based on PyTorch/MXNet, It comes with 20+ well-trained models for different application scenarios and can be used directly after installation. 【基于 PyTorch/M
-- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - Music Tag 音乐标签web版
+- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
@@ -512,6 +514,7 @@
 
 ## Shell 
 
+- [y0ngb1n/dockerized](https://github.com/y0ngb1n/dockerized) - 🐳 Build once, run anywhere
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hy2、sing-box 八合一一键脚本
 - [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria一键搞定。
@@ -568,6 +571,7 @@
 
 ## TypeScript 
 
+- [formbricks/formbricks](https://github.com/formbricks/formbricks) - Open Source Surveys & Experience Management Solution
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [zhlint-project/zhlint](https://github.com/zhlint-project/zhlint) - A linting tool for Chinese language.
 - [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
