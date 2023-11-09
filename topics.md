@@ -393,7 +393,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 500,000 installs.
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of Kubernetes Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
-- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 可编辑本地音乐文件的元数据（Editable local music file metadata.）
+- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [fredliang44/derper-docker](https://github.com/fredliang44/derper-docker) - tailscale‘s selfhosted derp-server docker image
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting numerous document formats into PDF files, and more!
@@ -818,7 +818,7 @@
 
 ## music 
 
-- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 可编辑本地音乐文件的元数据（Editable local music file metadata.）
+- [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc...
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
@@ -1028,7 +1028,6 @@
 - [Jbcbro/qBitRemote-Public](https://github.com/Jbcbro/qBitRemote-Public) - A iOS & Android client for qbittorrent
 - [DIYgod/hexo-theme-sagiri](https://github.com/DIYgod/hexo-theme-sagiri) - :cake: As lovely as sagiri
 - [zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) - 这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [pofey/movie_robot](https://github.com/pofey/movie_robot) - 轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。
 - [yaya131/OpenWrt_R7800_Stable](https://github.com/yaya131/OpenWrt_R7800_Stable) - 跟随LEDE主线更新。极致AP版和精简版，更新频率：跟随源码更新而更新，涵盖机型R7800 ---XR500 ---K2P---新三---E8450----AX6S-5.15
 - [solstice23/hexo-theme-argon](https://github.com/solstice23/hexo-theme-argon) - Argon-Theme 的 Hexo 移植版
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
