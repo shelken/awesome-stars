@@ -296,6 +296,7 @@
 
 ## Jupyter Notebook 
 
+- [chenxwh/insanely-fast-whisper](https://github.com/chenxwh/insanely-fast-whisper) - Incredibly fast Whisper-large-v3
 - [sanchit-gandhi/whisper-jax](https://github.com/sanchit-gandhi/whisper-jax) - JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
 - [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc...
 - [Ayanaminn/N46Whisper](https://github.com/Ayanaminn/N46Whisper) - Whisper based Japanese subtitle generator
@@ -427,6 +428,8 @@
 
 ## Python 
 
+- [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The DuckDB IDE for Your Terminal.
+- [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An an easy-to-use backup tool for Linux
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
