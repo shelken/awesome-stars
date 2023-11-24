@@ -25,7 +25,6 @@
 - [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
-- [M](#m)
 - [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Nix](#nix)
@@ -111,7 +110,6 @@
 ## CSS 
 
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
-- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai) - The simplest way to run LLaMA on your local machine
 - [cljoly/gohugo-asciinema](https://github.com/cljoly/gohugo-asciinema) - ⏯️ Insert the Asciinema Player in your Hugo site with ease.
 - [solstice23/hexo-theme-argon](https://github.com/solstice23/hexo-theme-argon) - Argon-Theme 的 Hexo 移植版
@@ -186,6 +184,7 @@
 
 - [mengkunsoft/OneQRCode](https://github.com/mengkunsoft/OneQRCode) - 📱 微信、支付宝、QQ 三合一收款二维码（单文件版）
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
+- [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [Qexo/Qexo](https://github.com/Qexo/Qexo) - A Quick, Powerful and Pretty Online Manager for Hexo.
@@ -330,10 +329,6 @@
 - [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，只需29.9
 - [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado) - Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
 
-## M 
-
-- [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on Apple Silicon Macs. Useful to embed in various scripts.
-
 ## Makefile 
 
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
@@ -361,6 +356,7 @@
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - A simple way to make your mouse better.
 - [Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner) - 腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。
+- [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on Apple Silicon Macs. Useful to embed in various scripts.
 - [chanify/chanify-ios](https://github.com/chanify/chanify-ios) - Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
 - [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
@@ -431,6 +427,7 @@
 
 ## Python 
 
+- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An an easy-to-use backup tool for Linux
