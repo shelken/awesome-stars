@@ -277,7 +277,7 @@
 - [divamgupta/diffusionbee-stable-diffusion-ui](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui) - Diffusion Bee is the easiest way to run Stable Diffusion locally on your M1 Mac. Comes with a one-click installer. No dependencies or technical knowledge needed.
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
-- [RyoLee/dd-danmaku](https://github.com/RyoLee/dd-danmaku) - Emby danmaku extension
+- [9channel/dd-danmaku](https://github.com/9channel/dd-danmaku) - Emby danmaku extension
 - [DualSubs/Universal](https://github.com/DualSubs/Universal) - 流媒体平台字幕增强及双语模块
 - [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
