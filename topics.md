@@ -1062,7 +1062,7 @@
 - [Rewrite0/Auto_Bangumi_WebUI](https://github.com/Rewrite0/Auto_Bangumi_WebUI) - AutoBangumi 的 Web UI
 - [Alaanor/beatlist](https://github.com/Alaanor/beatlist) - Beatlist is an app to manage playlists and beatmaps for the game Beat Saber.
 - [MicroCBer/beatsync](https://github.com/MicroCBer/beatsync) - Sync songs from beatsaver.com
-- [RyoLee/dd-danmaku](https://github.com/RyoLee/dd-danmaku) - Emby danmaku extension
+- [9channel/dd-danmaku](https://github.com/9channel/dd-danmaku) - Emby danmaku extension
 - [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 - [hihkm/DanmakuFactory](https://github.com/hihkm/DanmakuFactory) - 支持特殊弹幕的xml转ass格式转换工具
 - [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen) - 骚话生成器生成器
