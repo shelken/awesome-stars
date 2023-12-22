@@ -350,6 +350,7 @@
 
 ## Nix 
 
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [ryantm/agenix](https://github.com/ryantm/agenix) - age-encrypted secrets for NixOS and Home manager
 - [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter) - macOS as Code! An easy-to-understand nix-darwin startup configuration for beginners.  一份易于理解的 nix-darwin 初始配置模板，专为新手制作.
 - [nix-community/nixos-images](https://github.com/nix-community/nixos-images) - Automatically build (netboot) images for NixOS [maintainer=@Mic92]
@@ -438,6 +439,8 @@
 
 ## Python 
 
+- [HisAtri/LrcApi](https://github.com/HisAtri/LrcApi) - A Flask API For StreamMusic
+- [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [FlagAlpha/Llama2-Chinese](https://github.com/FlagAlpha/Llama2-Chinese) - Llama中文社区，最好的中文Llama大模型，完全开源可商用
 - [ruecat/ollama-telegram](https://github.com/ruecat/ollama-telegram) - 🦙 Ollama Telegram bot, with advanced configuration
@@ -445,7 +448,6 @@
 - [tconbeer/harlequin](https://github.com/tconbeer/harlequin) - The SQL IDE for Your Terminal.
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An an easy-to-use backup tool for Linux
-- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [yihong0618/Kindle_download_helper](https://github.com/yihong0618/Kindle_download_helper) - Download all your kindle books script.
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
