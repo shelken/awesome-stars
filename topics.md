@@ -1023,7 +1023,7 @@
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [NixOS-CN/NixOS-FAQ](https://github.com/NixOS-CN/NixOS-FAQ) - NixOS 常见问题解答
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
-- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim + agenix)
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ryan4yin's nix config(NixOS/macOS + home-manager + i3/hyprland + neovim/emacs + agenix)
 - [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码，2FHey的免费替代品；Automatic extraction of SMS verification code for Mac platform, free alternatives to 2FHey
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
