@@ -625,7 +625,7 @@
 - [keiko233/clash-nyanpasu](https://github.com/keiko233/clash-nyanpasu) - Clash Nyanpasu! (∠・ω&lt; )⌒☆​
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [quanru/obsidian-periodic-para](https://github.com/quanru/obsidian-periodic-para) - 
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - 
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Yet another unofficial Obsidian plugin allowing users to synchronize notes between local device and the cloud service. Supports S3, Dropbox, OneDrive, webdav.
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
@@ -675,7 +675,7 @@
 
 ## Vue 
 
-- [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - 一个NAS导航面板、Homepage、浏览器首页。
+- [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 - [Otto-J/sync-to-xlog](https://github.com/Otto-J/sync-to-xlog) - sync obsidian notes to xlog.app
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio) - 🥣 AIGC 提示词可视化编辑器  | OPS | Open Prompt Studio
