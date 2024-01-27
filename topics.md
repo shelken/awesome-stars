@@ -198,6 +198,7 @@
 
 ## ansible 
 
+- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a multi-master multi-node Kubernetes homelab with kubeadm, Ansible, Helm and Terraform.
 - [lisenet/homelab-ansible](https://github.com/lisenet/homelab-ansible) - Ansible playbooks to build my KVM-based homelab.
 
@@ -290,7 +291,7 @@
 ## chrome-extension 
 
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [kidlj/metword.extension](https://github.com/kidlj/metword.extension) - Browser extensions for MetWord
+- [kidlj/metword.extension](https://github.com/kidlj/metword.extension) - Browser extension for MetWord
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🍰 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [download-online-video/chrome-avgle-helper](https://github.com/download-online-video/chrome-avgle-helper) - 👏 A Chrome extension for Avgle and other interesting video sites. Downloader inside
