@@ -391,6 +391,7 @@
 
 ## Others 
 
+- [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [Anze/KeyCluCask](https://github.com/Anze/KeyCluCask) - Simple and handy overview of applications shortcuts.
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
@@ -456,6 +457,7 @@
 
 ## Python 
 
+- [nextrevision/ansible-swarm-playbook](https://github.com/nextrevision/ansible-swarm-playbook) - Playbook for creating/managing a Docker Swarm cluster
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
 - [yihong0618/epubhv](https://github.com/yihong0618/epubhv) - Make your epub books vertical or horizontal.
 - [winniesi/tg-gemini-bot](https://github.com/winniesi/tg-gemini-bot) - Just a single click and you've got it set up on Vercel.
