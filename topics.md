@@ -629,7 +629,7 @@
 
 ## good-first-issue 
 
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An an easy-to-use backup tool for GNU Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 
 ## google 
 
@@ -642,6 +642,7 @@
 
 ## hacktoberfest 
 
+- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -795,7 +796,7 @@
 
 - [nakanomikuorg/arch-guide](https://github.com/nakanomikuorg/arch-guide) - ✨ archlinux 简明指南 | 本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容 | 提供在线文档 ✨
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 一键更换系统软件源脚本
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An an easy-to-use backup tool for GNU Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over a million installs.
 - [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc...
@@ -996,6 +997,7 @@
 
 ## others 
 
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [nextrevision/ansible-swarm-playbook](https://github.com/nextrevision/ansible-swarm-playbook) - Playbook for creating/managing a Docker Swarm cluster
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
@@ -1282,7 +1284,7 @@
 ## python 
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An an easy-to-use backup tool for GNU Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
 - [lucasheld/uptime-kuma-api](https://github.com/lucasheld/uptime-kuma-api) - A Python wrapper for the Uptime Kuma Socket.IO API
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
@@ -1320,7 +1322,7 @@
 
 ## qt 
 
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An an easy-to-use backup tool for GNU Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 
 ## r 
 
