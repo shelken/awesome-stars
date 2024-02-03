@@ -592,7 +592,7 @@
 - [yaya131/OpenWrt_R7800_Stable](https://github.com/yaya131/OpenWrt_R7800_Stable) - 跟随闭源主线更新。CMCC-RAX3000M极致版，更新频率：跟随源码更新而更新，包含部分机型R7800 ---XR500
 - [MrH723/Actions-OpenWrt](https://github.com/MrH723/Actions-OpenWrt) - -OpenWrt全网插件汇总-多种设备OpenWrt固件自动云编译。X86-64主路由，x86-64旁路由、x86-64插件全家桶、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、竞斗云、小、小米 R3G、极路由 B70、小米 R3P、小米 Mini、网件 R7800、娱 C5、R2SNanoPI NEO2、等。
 - [281677160/build-actions](https://github.com/281677160/build-actions) - 超简单的在线编译OpenWrt固件
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
 - [Jeffery186/newifi3-d2-openwrt](https://github.com/Jeffery186/newifi3-d2-openwrt) - 新三路由器openwrt固件
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
