@@ -1177,7 +1177,7 @@
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [rq1025330/Actions-OP](https://github.com/rq1025330/Actions-OP) - 基于Lean大佬Lede源码编译。使用 Flippy 的 Openwrt 打包源码，主要制作 Phicomm N1、Amlogic S905x3 的 openwrt 固件及CR660X固件。
 - [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos.   It also supports automatic and manual switching between light and dark modes.
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 - [GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI](https://github.com/GeQ1an/MSI-B360M-MORTAR-HACKINTOSH-OPENCORE-EFI) - MSI B360M MORTAR Hackintosh OpenCore EFI  /【微星 B360M 迫击炮】黑苹果 OpenCore EFI
 - [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
 - [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
