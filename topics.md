@@ -812,7 +812,7 @@
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [Nriver/Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
@@ -908,7 +908,7 @@
 - [lucasheld/uptime-kuma-api](https://github.com/lucasheld/uptime-kuma-api) - A Python wrapper for the Uptime Kuma Socket.IO API
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alerts management and automation platform
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [arjunkomath/netdata-ios](https://github.com/arjunkomath/netdata-ios) - Unofficial Netdata client for iOS, iPadOS & macOS
 
 ## music 
@@ -1329,7 +1329,7 @@
 ## pytorch 
 
 - [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR) - CnOCR: Awesome Chinese/English OCR Python toolkits based on PyTorch. It comes with 20+ well-trained models for different application scenarios and can be used directly after installation. 【基于 PyTorch/
-- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [camenduru/stable-diffusion-webui-colab](https://github.com/camenduru/stable-diffusion-webui-colab) - stable diffusion webui colab
 - [AbdBarho/stable-diffusion-webui-docker](https://github.com/AbdBarho/stable-diffusion-webui-docker) - Easy Docker setup for Stable Diffusion with user-friendly UI
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -1444,7 +1444,7 @@
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## server 
