@@ -233,7 +233,7 @@
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
 - [heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes) - 大数据入门指南  :star:
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - Make stream processing easier! Easy-to-use streaming application development framework and operation platform.
-- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster, prometheus-like and agentless.
+- [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - A real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
 - [mouzt/mzt-biz-log](https://github.com/mouzt/mzt-biz-log) - 支持Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
@@ -494,7 +494,7 @@
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [yangpeng14/DevOps](https://github.com/yangpeng14/DevOps) - 自动化运维指南 https://www.yp14.cn
-- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
