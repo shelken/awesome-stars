@@ -131,6 +131,7 @@
 
 ## Go 
 
+- [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
@@ -569,6 +570,7 @@
 
 ## Shell 
 
+- [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
 - [filipweilid/k3s-homelab](https://github.com/filipweilid/k3s-homelab) - Mono repository for my home infrastructure and Kubernetes cluster
 - [lework/kainstall](https://github.com/lework/kainstall) - Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本
