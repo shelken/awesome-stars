@@ -1030,6 +1030,8 @@
 
 ## others 
 
+- [fbelavenuto/arpl](https://github.com/fbelavenuto/arpl) - Automated Redpill Loader
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [nextrevision/ansible-swarm-playbook](https://github.com/nextrevision/ansible-swarm-playbook) - Playbook for creating/managing a Docker Swarm cluster
