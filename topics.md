@@ -1344,7 +1344,7 @@
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture) - Local Movies Organizer
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 
 ## python3 
 
@@ -1460,7 +1460,7 @@
 
 - [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for Ollama (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - ChatGPT-Style WebUI for LLMs (Formerly Ollama WebUI)
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted bookmarks and link sharing platform. Save and share your links very easily
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
