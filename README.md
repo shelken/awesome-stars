@@ -607,7 +607,7 @@
 - [MrH723/Actions-OpenWrt](https://github.com/MrH723/Actions-OpenWrt) - -OpenWrt全网插件汇总-多种设备OpenWrt固件自动云编译。X86-64主路由，x86-64旁路由、x86-64插件全家桶、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、竞斗云、小、小米 R3G、极路由 B70、小米 R3P、小米 Mini、网件 R7800、娱 C5、R2SNanoPI NEO2、等。
 - [281677160/build-actions](https://github.com/281677160/build-actions) - 超简单的在线编译OpenWrt固件
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
-- [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 云编译 OpenWrt
+- [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt) - A template for building OpenWrt with GitHub Actions | 使用 GitHub Actions 在线云编译 OpenWrt 固件
 - [Jeffery186/newifi3-d2-openwrt](https://github.com/Jeffery186/newifi3-d2-openwrt) - 新三路由器openwrt固件
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
