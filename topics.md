@@ -1066,6 +1066,7 @@
 
 ## others 
 
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [sxyazi/dotfiles](https://github.com/sxyazi/dotfiles) - Some of the dotfiles I can't do without.
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
@@ -1141,7 +1142,7 @@
 - [NixOS-CN/NixOS-FAQ](https://github.com/NixOS-CN/NixOS-FAQ) - NixOS 常见问题解答
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
 - [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
-- [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码；Automatic extraction of SMS verification code for Mac platform
+- [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes for Mac platform
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
