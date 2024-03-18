@@ -381,6 +381,7 @@
 
 ## Nix 
 
+- [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
 - [yqlbu/nixos-config](https://github.com/yqlbu/nixos-config) - ❄️ Declarative NixOS with Nix Flake
