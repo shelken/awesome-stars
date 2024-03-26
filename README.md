@@ -491,6 +491,7 @@
 
 - [rss-translator/RSS-Translator](https://github.com/rss-translator/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Open Source, Lightweight, Self-hosted
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [nextrevision/ansible-swarm-playbook](https://github.com/nextrevision/ansible-swarm-playbook) - Playbook for creating/managing a Docker Swarm cluster
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
 - [yihong0618/epubhv](https://github.com/yihong0618/epubhv) - Make your epub books vertical or horizontal.
@@ -609,7 +610,6 @@
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [fbelavenuto/arpl](https://github.com/fbelavenuto/arpl) - Automated Redpill Loader
 - [fluxcd/flux2-kustomize-helm-example](https://github.com/fluxcd/flux2-kustomize-helm-example) - A GitOps workflow example for multi-env deployments with Flux, Kustomize and Helm.
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Kubernetes cluster with k3s or Talos
 - [lework/kainstall](https://github.com/lework/kainstall) - Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。
 - [SuperManito/LinuxMirrors](https://github.com/SuperManito/LinuxMirrors) - GNU/Linux 更换系统软件源脚本
 - [hnyuanzj/DMShellInstall](https://github.com/hnyuanzj/DMShellInstall) - 达梦数据库一键安装
