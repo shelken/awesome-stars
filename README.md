@@ -7,6 +7,7 @@
 
 - [ASL](#asl)
 - [AppleScript](#applescript)
+- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [Brainfuck](#brainfuck)
 - [C](#c)
@@ -52,6 +53,10 @@
 ## AppleScript 
 
 - [vitorgalvao/custom-alfred-iterm-scripts](https://github.com/vitorgalvao/custom-alfred-iterm-scripts) - AppleScript for iTerm2 Alfred integration.
+
+## Astro 
+
+- [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 
 ## Batchfile 
 
