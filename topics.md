@@ -1085,6 +1085,7 @@
 
 ## others 
 
+- [MordragT/nix-templates](https://github.com/MordragT/nix-templates) - ❄️ Nix flake templates for: 🦀 Rust, 🦖 Deno, 🐍 Python and 🗒️ reveal.js among others
 - [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 - [shehroziy/parallels-desktop](https://github.com/shehroziy/parallels-desktop) - This is the crack version of parallels desktop
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
@@ -1247,7 +1248,7 @@
 - [DualSubs/Universal](https://github.com/DualSubs/Universal) - 流媒体平台字幕增强及双语模块
 - [iamabug/BigDataParty](https://github.com/iamabug/BigDataParty) - 大数据组件 All-in-One 的 Dockerfile
 - [ruanyf/free-books](https://github.com/ruanyf/free-books) - 互联网上的免费书籍
-- [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
+- [Redis-Insight/Redis-Insight](https://github.com/Redis-Insight/Redis-Insight) - Redis GUI by Redis
 - [apache/incubator-streampark](https://github.com/apache/incubator-streampark) - Make stream processing easier! Easy-to-use streaming application development framework and operation platform.
 - [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 - [app2smile/rules](https://github.com/app2smile/rules) - iOS App去广告
