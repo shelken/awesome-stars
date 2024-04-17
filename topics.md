@@ -1035,6 +1035,7 @@
 
 ## neovim 
 
+- [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) - A Neovim Plugin for the yazi terminal file browser
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [khaneliman/khanelinix](https://github.com/khaneliman/khanelinix) - Nix configuration for my systems supporting macOS, NixOS, and WSL.
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) - :sparkles: Clarify and beautify your comments and plain text files using boxes and lines.
