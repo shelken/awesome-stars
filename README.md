@@ -148,7 +148,7 @@
 
 ## Go 
 
-- [glanceapp/glance](https://github.com/glanceapp/glance) - A selfhosted dashboard that puts all your feeds in one place
+- [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [jpillora/installer](https://github.com/jpillora/installer) - One-liner for installing binaries from Github releases
