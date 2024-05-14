@@ -44,6 +44,7 @@
 - [devops](#devops)
 - [docker](#docker)
 - [documentation](#documentation)
+- [dotfiles](#dotfiles)
 - [dotnet](#dotnet)
 - [education](#education)
 - [electron](#electron)
@@ -331,6 +332,7 @@
 
 ## cli 
 
+- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - Find out what the past year looks like in command line!
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -519,6 +521,18 @@
 
 - [SukkaW/OpenCore-Document-zh_Hans](https://github.com/SukkaW/OpenCore-Document-zh_Hans) - [非官方/Unofficial] OpenCore Bootloader 参考手册简体中文翻译
 
+## dotfiles 
+
+- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
+- [Enzime/dotfiles-nix](https://github.com/Enzime/dotfiles-nix) - Use Nix to declaratively manage and configure all of my systems everywhere all at once
+- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
+- [1amSimp1e/dots](https://github.com/1amSimp1e/dots) - Nothing here but Dotfiles & Customization 💫
+- [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
+- [ryan4yin/nix-darwin-kickstarter](https://github.com/ryan4yin/nix-darwin-kickstarter) - macOS as Code! A beginner-friendly nix-darwin + home-manager + flakes startup configuration. 一份易于理解的 nix-darwin 初始配置模板，专为新手制作.
+- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
+- [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
+- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
+
 ## dotnet 
 
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
@@ -658,6 +672,7 @@
 
 ## golang 
 
+- [MHNightCat/superfile](https://github.com/MHNightCat/superfile) - Pretty fancy and modern terminal file manager
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
@@ -1154,6 +1169,10 @@
 
 ## others 
 
+- [shelken/dotfiles.nix](https://github.com/shelken/dotfiles.nix) - nix dotfiles
+- [shelken/dot-astro-nvim](https://github.com/shelken/dot-astro-nvim) - 
+- [shelken/rime-auto-deploy](https://github.com/shelken/rime-auto-deploy) - Make using Rime easy.
+- [shelken/dot-tmux](https://github.com/shelken/dot-tmux) - tmux配置
 - [nix-community/pip2nix](https://github.com/nix-community/pip2nix) - Freeze pip-installable packages into Nix expressions [maintainer=@datakurre]
 - [Asthestarsfalll/img2art](https://github.com/Asthestarsfalll/img2art) - Convert image/gif/video to ascii art.
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos) - High-quality PNGs for logos I made for fun
@@ -1171,14 +1190,11 @@
 - [MordragT/nix-templates](https://github.com/MordragT/nix-templates) - ❄️ Nix flake templates for: 🦀 Rust, 🦖 Deno, 🐍 Python and 🗒️ reveal.js among others
 - [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 - [shehroziy/parallels-desktop](https://github.com/shehroziy/parallels-desktop) - This is the crack version of parallels desktop
-- [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [zuisong/homebrew-tap](https://github.com/zuisong/homebrew-tap) - my homebrew tap repository
 - [miooochi/dotfiles.nix](https://github.com/miooochi/dotfiles.nix) - 
-- [Enzime/dotfiles-nix](https://github.com/Enzime/dotfiles-nix) - Use Nix to declaratively manage and configure all of my systems everywhere all at once
 - [rss-translator/RSS-Translator](https://github.com/rss-translator/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate and Access RSS Feeds in Your Language!
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
-- [LnL7/nix-darwin](https://github.com/LnL7/nix-darwin) - nix modules for darwin
 - [sxyazi/dotfiles](https://github.com/sxyazi/dotfiles) - Some of the dotfiles I can't do without.
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
@@ -1188,7 +1204,6 @@
 - [jpillora/installer](https://github.com/jpillora/installer) - One-liner for installing binaries from Github releases
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-- [Ruixi-rebirth/melted-flakes](https://github.com/Ruixi-rebirth/melted-flakes) - My presonal NixOS config.New config can get in https://github.com/Ruixi-rebirth/flakes
 - [fbelavenuto/arpl](https://github.com/fbelavenuto/arpl) - Automated Redpill Loader
 - [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
@@ -1252,14 +1267,12 @@
 - [pingc0y/URLFinder](https://github.com/pingc0y/URLFinder) - 一款快速、全面、易用的页面信息提取工具，可快速发现和提取页面中的JS、URL和敏感信息。
 - [NixOS-CN/NixOS-FAQ](https://github.com/NixOS-CN/NixOS-FAQ) - NixOS 常见问题解答
 - [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates) - Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]
-- [ryan4yin/nix-config](https://github.com/ryan4yin/nix-config) - ❄️ my nix config for both desktops(NixOS+macOS) and homelab servers(NixOS).
 - [LeeeSe/MessAuto](https://github.com/LeeeSe/MessAuto) - 自动提取Mac平台的短信和邮箱验证码；Automatic extraction of 2FA codes from iMassage and Mail App for Mac platform
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
-- [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@rycee]
 - [jcleng/nixos-configuration](https://github.com/jcleng/nixos-configuration) - nixos 自用配置
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
