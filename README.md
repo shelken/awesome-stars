@@ -367,6 +367,7 @@
 
 ## Just 
 
+- [catppuccin/btop](https://github.com/catppuccin/btop) - 🧙‍♂️ Soothing pastel theme for btop
 - [catppuccin/lazygit](https://github.com/catppuccin/lazygit) - 🍴 Soothing pastel theme for Lazygit
 
 ## Kotlin 
@@ -457,7 +458,6 @@
 
 ## Others 
 
-- [catppuccin/btop](https://github.com/catppuccin/btop) - 🧙‍♂️ Soothing pastel theme for btop
 - [catppuccin/github-readme-tech-stack](https://github.com/catppuccin/github-readme-tech-stack) - 🪄 Soothing pastel theme for GitHub Readme Tech Stack
 - [catppuccin/squirrel](https://github.com/catppuccin/squirrel) - 🖌 Soothing pastel theme for Squirrel (Rime for MacOS)
 - [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
