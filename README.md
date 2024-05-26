@@ -538,7 +538,7 @@
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [rss-translator/RSS-Translator](https://github.com/rss-translator/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster with Flux
+- [onedr0p/cluster-template](https://github.com/onedr0p/cluster-template) - A template for deploying a Talos Kubernetes cluster including Flux for GitOps
 - [nextrevision/ansible-swarm-playbook](https://github.com/nextrevision/ansible-swarm-playbook) - Playbook for creating/managing a Docker Swarm cluster
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
 - [yihong0618/epubhv](https://github.com/yihong0618/epubhv) - Make your epub books vertical or horizontal.
