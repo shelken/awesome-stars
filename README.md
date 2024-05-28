@@ -20,7 +20,6 @@
 - [Go](#go)
 - [HCL](#hcl)
 - [HTML](#html)
-- [Handlebars](#handlebars)
 - [Haskell](#haskell)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -241,10 +240,6 @@
 - [DIYgod/hexo-theme-sagiri](https://github.com/DIYgod/hexo-theme-sagiri) - :cake: As lovely as sagiri
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
-## Handlebars 
-
-- [catppuccin/yazi](https://github.com/catppuccin/yazi) - 📁 Soothing pastel theme for Yazi
-
 ## Haskell 
 
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
@@ -368,6 +363,7 @@
 
 ## Just 
 
+- [catppuccin/yazi](https://github.com/catppuccin/yazi) - 📁 Soothing pastel theme for Yazi
 - [catppuccin/btop](https://github.com/catppuccin/btop) - 🧙‍♂️ Soothing pastel theme for btop
 - [catppuccin/lazygit](https://github.com/catppuccin/lazygit) - 🍴 Soothing pastel theme for Lazygit
 
