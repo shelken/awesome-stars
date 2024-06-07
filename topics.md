@@ -732,7 +732,7 @@
 
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat
-- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel theme for userstyles
+- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel theme for Userstyles
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs
 - [catppuccin/wezterm](https://github.com/catppuccin/wezterm) - :shell: Soothing pastel theme for WezTerm
@@ -1911,7 +1911,7 @@
 
 ## website 
 
-- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel theme for userstyles
+- [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel theme for Userstyles
 - [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
 
 ## windows 
