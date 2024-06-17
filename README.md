@@ -455,7 +455,6 @@
 
 - [catppuccin/github-readme-tech-stack](https://github.com/catppuccin/github-readme-tech-stack) - 🪄 Soothing pastel theme for GitHub Readme Tech Stack
 - [catppuccin/squirrel](https://github.com/catppuccin/squirrel) - 🖌 Soothing pastel theme for Squirrel (Rime for MacOS)
-- [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 - [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
@@ -704,6 +703,7 @@
 
 ## Swift 
 
+- [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
@@ -731,6 +731,7 @@
 
 ## TypeScript 
 
+- [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Effortless, instant screen sharing.
 - [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat
@@ -745,7 +746,7 @@
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - 
-- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Yet another unofficial Obsidian plugin allowing users to synchronize notes between local device and the cloud service. Supports S3, Dropbox, OneDrive, webdav.
+- [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Sync notes between local and cloud services with smart conflict: S3 (Amazon S3/Cloudflare R2/Backblaze B2/...), Dropbox, webdav (NextCloud/InfiniCLOUD/Synology/...), OneDrive, Google Drive (GDrive), B
 - [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [vrtmrz/obsidian-livesync](https://github.com/vrtmrz/obsidian-livesync) - 
