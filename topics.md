@@ -1184,6 +1184,7 @@
 
 ## others 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
 - [shelken/dotfiles.nix](https://github.com/shelken/dotfiles.nix) - nix dotfiles
 - [shelken/dot-astro-nvim](https://github.com/shelken/dot-astro-nvim) - 
