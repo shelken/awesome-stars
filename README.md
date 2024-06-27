@@ -72,7 +72,6 @@
 
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
-- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [hihkm/DanmakuFactory](https://github.com/hihkm/DanmakuFactory) - 支持特殊弹幕的xml转ass格式转换工具
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [x-wrt/x-wrt](https://github.com/x-wrt/x-wrt) - This repository is a fork of https://git.openwrt.org/openwrt/openwrt.git
@@ -105,6 +104,7 @@
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Metalit/bsq-qounters-minus](https://github.com/Metalit/bsq-qounters-minus) - Spice up your Beat Saber HUD with a variety of configurable Qounters, which can display a wide variety of stats in an even wider variety of ways. This mod is an Oculus Quest port of Caeden117's Counte
 - [EnderdracheLP/QuestSounds](https://github.com/EnderdracheLP/QuestSounds) - QuestSounds allows the user to change sounds,  just drop them into default path or your custom path!
 - [MicroCBer/beatsync](https://github.com/MicroCBer/beatsync) - Sync songs from beatsaver.com
@@ -799,7 +799,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.x、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强静态导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 🌏 最强静态导航网站
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
 ## Vim Script 
