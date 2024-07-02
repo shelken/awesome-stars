@@ -1096,7 +1096,7 @@
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
-- [javaoffers/briefest](https://github.com/javaoffers/briefest) - A easy orm framework.
+- [javaoffers/briefest](https://github.com/javaoffers/briefest) - A easy orm framework. SQL needs to be simple, business needs to be complex
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
@@ -1224,12 +1224,12 @@
 - [moeyua/astro-theme-typography](https://github.com/moeyua/astro-theme-typography) - Rediscover the beauty of typography.
 - [snowfallorg/lib](https://github.com/snowfallorg/lib) - Unified configuration for systems, packages, modules, shells, templates, and more with Nix Flakes.
 - [zuisong/homebrew-tap](https://github.com/zuisong/homebrew-tap) - my homebrew tap repository
-- [miooochi/dotfiles.nix](https://github.com/miooochi/dotfiles.nix) - 
+- [piyoki/dotfiles.nix](https://github.com/piyoki/dotfiles.nix) - 
 - [nix-community/haumea](https://github.com/nix-community/haumea) - Filesystem-based module system for Nix [maintainer=@figsoda]
 - [sxyazi/dotfiles](https://github.com/sxyazi/dotfiles) - Some of the dotfiles I can't do without.
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [cachix/devenv](https://github.com/cachix/devenv) - Fast, Declarative, Reproducible, and Composable Developer Environments
-- [miooochi/nixos-config](https://github.com/miooochi/nixos-config) - ❄️ Declarative NixOS with Nix Flake
+- [piyoki/nixos-config](https://github.com/piyoki/nixos-config) - ❄️ Declarative NixOS with Nix Flake
 - [nix-community/nixos-generators](https://github.com/nix-community/nixos-generators) - Collection of image builders [maintainer=@Lassulus]
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2021 edition）
 - [jpillora/installer](https://github.com/jpillora/installer) - One-liner for installing binaries from Github releases
@@ -1747,7 +1747,7 @@
 ## spring-boot 
 
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
-- [javaoffers/briefest](https://github.com/javaoffers/briefest) - A easy orm framework.
+- [javaoffers/briefest](https://github.com/javaoffers/briefest) - A easy orm framework. SQL needs to be simple, business needs to be complex
 - [Flying9001/springBootDemo](https://github.com/Flying9001/springBootDemo) - springBoot demo
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
