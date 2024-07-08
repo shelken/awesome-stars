@@ -655,6 +655,7 @@
 
 ## Shell 
 
+- [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
 - [shelken/dot-tmux](https://github.com/shelken/dot-tmux) - tmux配置
 - [catppuccin/tmux](https://github.com/catppuccin/tmux) - 💽 Soothing pastel theme for Tmux!
 - [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) - 
