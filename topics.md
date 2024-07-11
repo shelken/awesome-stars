@@ -597,6 +597,7 @@
 
 ## firefox 
 
+- [browserutils/kooky](https://github.com/browserutils/kooky) - Go code to read cookies from browser cookie stores.
 - [immersive-translate/old-immersive-translate](https://github.com/immersive-translate/old-immersive-translate) - Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content. Think of the browser's reading mode, but in immersive translation.
 
 ## flask 
@@ -662,6 +663,7 @@
 
 ## go 
 
+- [browserutils/kooky](https://github.com/browserutils/kooky) - Go code to read cookies from browser cookie stores.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm) - A Modern Redis GUI Client
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich, GPU based terminal
@@ -692,6 +694,7 @@
 
 ## golang 
 
+- [browserutils/kooky](https://github.com/browserutils/kooky) - Go code to read cookies from browser cookie stores.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [geektutu/7days-golang](https://github.com/geektutu/7days-golang) - 7 days golang programs from scratch (web framework Gee, distributed cache GeeCache, object relational mapping ORM framework GeeORM, rpc framework GeeRPC etc)  7天用Go动手写/从零实现系列
