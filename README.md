@@ -150,6 +150,7 @@
 
 ## Go 
 
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [tazjin/nixery](https://github.com/tazjin/nixery) - Container registry which transparently builds images using the Nix package manager. Canonical repository is https://cs.tvl.fyi/depot/-/tree/tools/nixery
@@ -252,6 +253,7 @@
 
 ## Java 
 
+- [pazone/ashot](https://github.com/pazone/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [zq2599/blog_demos](https://github.com/zq2599/blog_demos) - CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面
 - [apache/flink-training](https://github.com/apache/flink-training) - Apache Flink Training Excercises
@@ -749,6 +751,7 @@
 
 ## TypeScript 
 
+- [chengfengfengwang/lingo-link](https://github.com/chengfengfengwang/lingo-link) - 一个支持大模型的浏览器划词翻译插件 / a browser extension primarily designed for translation of selected text
 - [RSSNext/follow](https://github.com/RSSNext/follow) - [WIP] Next generation information browser
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -802,7 +805,7 @@
 - [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 - [kidlj/metword.extension](https://github.com/kidlj/metword.extension) - Browser extension for MetWord
 - [PrettyCoffee/fluidity](https://github.com/PrettyCoffee/fluidity) - Fluidity - An accordion based startpage
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
+- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Vercel, Raycast, and Perplexity.
 - [RedisInsight/RedisInsight](https://github.com/RedisInsight/RedisInsight) - Redis GUI by Redis
 - [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
 - [Jbcbro/qBitRemote-Public](https://github.com/Jbcbro/qBitRemote-Public) - A iOS & Android client for qbittorrent
