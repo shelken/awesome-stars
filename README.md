@@ -65,6 +65,7 @@
 
 ## C 
 
+- [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [hihkm/DanmakuFactory](https://github.com/hihkm/DanmakuFactory) - 支持特殊弹幕的xml转ass格式转换工具
@@ -96,7 +97,7 @@
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [nix-community/nixd](https://github.com/nix-community/nixd) - Nix language server, based on nix libraries [maintainer=@inclyc]
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
-- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [ravenscroftj/turbopilot](https://github.com/ravenscroftj/turbopilot) - Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
@@ -635,6 +636,7 @@
 
 ## Rust 
 
+- [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [kennytm/qrcode-rust](https://github.com/kennytm/qrcode-rust) - QR code encoder in Rust.
 - [thewh1teagle/rookie](https://github.com/thewh1teagle/rookie) - Load cookies from your web browsers
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
