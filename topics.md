@@ -1236,6 +1236,7 @@
 
 ## others 
 
+- [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
 - [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [kennytm/qrcode-rust](https://github.com/kennytm/qrcode-rust) - QR code encoder in Rust.
