@@ -172,6 +172,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitHub/GitLab for database DevOps. World's most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams.
+- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -540,6 +541,7 @@
 
 ## Python 
 
+- [glomatico/gamdl](https://github.com/glomatico/gamdl) - A Python CLI app for downloading Apple Music songs/music videos/posts.
 - [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚
 - [TobinPalmer/pastify.nvim](https://github.com/TobinPalmer/pastify.nvim) - Paste images into markdown from neovim
@@ -758,6 +760,7 @@
 
 ## TypeScript 
 
+- [nolebase/integrations](https://github.com/nolebase/integrations) - ✍️ A collection of diverse documentation engineering tools. Better reading experience, inline link preview, highlight targeted title, enhanced &lt;mark&gt; element, state-of-the-art SEO and &lt;meta&g
 - [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
 - [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
 - [chengfengfengwang/lingo-link](https://github.com/chengfengfengwang/lingo-link) - 一个支持大模型的浏览器划词翻译插件 / a browser extension primarily designed for translation of selected text
@@ -776,7 +779,6 @@
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
-- [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted links shortener and sharing platform. Save and share your links very easily
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [quanru/obsidian-lifeos](https://github.com/quanru/obsidian-lifeos) - 
