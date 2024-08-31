@@ -244,7 +244,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
-- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
 ## archlinux 
@@ -550,7 +550,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
-- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support
 - [docker-easyconnect/docker-easyconnect](https://github.com/docker-easyconnect/docker-easyconnect) - 使深信服（Sangfor）开发的非自由的 VPN 软件 EasyConnect 和 aTrust 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务
 - [Nriver/Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
 - [jina-ai/jina](https://github.com/jina-ai/jina) - ☁️ Build multimodal AI applications with cloud-native stack
@@ -868,6 +868,7 @@
 
 ## ios 
 
+- [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
 - [arjunkomath/netdata-ios](https://github.com/arjunkomath/netdata-ios) - Unofficial Netdata client for iOS, iPadOS & macOS
@@ -933,7 +934,7 @@
 
 ## kotlin 
 
-- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support
 - [Ecwid/clickhouse-client](https://github.com/Ecwid/clickhouse-client) - Java/Kotlin client for ClickHouse
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
 - [YZune/WakeupSchedule_Kotlin](https://github.com/YZune/WakeupSchedule_Kotlin) - Wakeup课程表Kotlin重构版
@@ -1535,7 +1536,7 @@
 - [jsososo/soso-music](https://github.com/jsososo/soso-music) - electron music app
 - [georgehuan1994/DingDing-Automatic-Clock-in](https://github.com/georgehuan1994/DingDing-Automatic-Clock-in) - 钉钉全自动打卡脚本，基于auto.js，免root，适用于蓝牙考勤机
 - [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
-- [kiddin9/KWrt](https://github.com/kiddin9/KWrt) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
+- [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [VergilGao/docker-mdc](https://github.com/VergilGao/docker-mdc) - https://github.com/yoshiko2/Movie_Data_Capture 的 docker镜像，帮助你更优雅的管理硬盘中的大姐姐们。
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
@@ -1641,6 +1642,7 @@
 
 ## python 
 
+- [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -1670,6 +1672,7 @@
 
 ## python3 
 
+- [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [Nriver/Episode-ReName](https://github.com/Nriver/Episode-ReName) - 电视剧/番剧自动化重命名工具, 一键批量改名. 可配合QBittorrent下载后自动重命名, 方便Emby自动刮削. 支持Windows, Linux, MacOS, Docker 和 群晖套件环境运行
 
@@ -1872,7 +1875,7 @@
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot
 - [javaoffers/briefest](https://github.com/javaoffers/briefest) - Brief's core Object/Relational Mapping functionality. SQL must be easy, business can be complex
 - [Flying9001/springBootDemo](https://github.com/Flying9001/springBootDemo) - springBoot demo
-- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API and OPDS support
+- [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS and Kobo Sync support
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 - [maventalker/simplemall](https://github.com/maventalker/simplemall) - 基于SpringCloud的微服务架构实战案例项目，以一个简单的购物流程为示例，融合spring cloud 相关组件，如spring-cloud-netflix、swagger等
