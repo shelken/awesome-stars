@@ -1316,7 +1316,7 @@
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [Chenyme/Chenyme-AAVT](https://github.com/Chenyme/Chenyme-AAVT) - 这是一个全自动（音频）视频翻译项目。利用Whisper识别声音，AI大模型翻译字幕，最后合并字幕视频，生成翻译后的视频。
-- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割翻译、精确对齐和个性化配音，一键全自动视频搬运
+- [Huanshere/VideoLingo](https://github.com/Huanshere/VideoLingo) - Netflix级字幕切割、翻译、精确对齐，一键全自动视频搬运
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager.
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 - [nix-community/comma](https://github.com/nix-community/comma) - Comma runs software without installing it. [maintainers=@Artturin,@burke,@DavHau]
