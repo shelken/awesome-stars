@@ -418,6 +418,7 @@
 
 ## Lua 
 
+- [Tnixc/nix-config](https://github.com/Tnixc/nix-config) - Configs for nix-darwin
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [shelken/dot-astro-nvim](https://github.com/shelken/dot-astro-nvim) - 
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
@@ -729,6 +730,7 @@
 
 ## Shell 
 
+- [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - 
 - [mattieb/windows-esd-to-iso](https://github.com/mattieb/windows-esd-to-iso) - converts a Windows 11 ESD to an ISO image
 - [mattieb/download-windows-esd](https://github.com/mattieb/download-windows-esd) - download Windows 11 ESDs directly from Microsoft
 - [Scirese/alarm](https://github.com/Scirese/alarm) - Install Arch Linux ARM(or Manjaro ARM) on Android TV Boxes
@@ -825,6 +827,7 @@
 
 ## TypeScript 
 
+- [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [hasanharman/form-builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
