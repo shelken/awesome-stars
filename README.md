@@ -220,7 +220,7 @@
 - [j178/chatgpt](https://github.com/j178/chatgpt) - An elegant interactive CLI for ChatGPT
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, enterprise apps, and more, with AI as a seamless collaborator.
 - [wxbool/video-srt-windows](https://github.com/wxbool/video-srt-windows) - 这是一个可以识别视频语音自动生成字幕SRT文件的开源 Windows-GUI 软件工具。
 - [lml200701158/go_demo](https://github.com/lml200701158/go_demo) - 
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -736,7 +736,7 @@
 - [mattieb/windows-esd-to-iso](https://github.com/mattieb/windows-esd-to-iso) - converts a Windows 11 ESD to an ISO image
 - [mattieb/download-windows-esd](https://github.com/mattieb/download-windows-esd) - download Windows 11 ESDs directly from Microsoft
 - [Scirese/alarm](https://github.com/Scirese/alarm) - Install Arch Linux ARM(or Manjaro ARM) on Android TV Boxes
-- [beclab/Terminus](https://github.com/beclab/Terminus) - Terminus - Your Self-Hosted Home Cloud, Powered by Kubernetes
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares - Open-Source SelfHosted Alternative to Public Clouds
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [basecamp/omakub](https://github.com/basecamp/omakub) - Opinionated Ubuntu Setup
