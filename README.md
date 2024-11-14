@@ -159,6 +159,7 @@
 
 ## Go 
 
+- [JohannesKaufmann/html-to-markdown](https://github.com/JohannesKaufmann/html-to-markdown) - ⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs.
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [mikew/nvrh](https://github.com/mikew/nvrh) - Aims to be similar to VSCode Remote, but for Neovim
@@ -297,7 +298,7 @@
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
 - [mouzt/mzt-biz-log](https://github.com/mouzt/mzt-biz-log) - 支持Springboot，基于注解的可使用变量、可以自定义函数的通用操作日志组件
-- [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
+- [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 后端程序员应该掌握的主流数据库知识
 - [coobird/thumbnailator](https://github.com/coobird/thumbnailator) - Thumbnailator - a thumbnail generation library for Java
 - [CodingDocs/springboot-guide](https://github.com/CodingDocs/springboot-guide) - SpringBoot2.0+从入门到实战！
 - [wgzhao/Addax](https://github.com/wgzhao/Addax) - Addax is a versatile open-source ETL tool that can seamlessly transfer data between various RDBMS and NoSQL databases, making it an ideal solution for data migration.
@@ -622,6 +623,7 @@
 - [lucasheld/uptime-kuma-api](https://github.com/lucasheld/uptime-kuma-api) - A Python wrapper for the Uptime Kuma Socket.IO API
 - [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [breezedeus/CnOCR](https://github.com/breezedeus/CnOCR) - CnOCR: Awesome Chinese/English OCR Python toolkits based on PyTorch. It comes with 20+ well-trained models for different application scenarios and can be used directly after installation. 【基于 PyTorch/
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster) - Make everything a GitHub svg poster and Skyline!
@@ -829,6 +831,7 @@
 
 ## TypeScript 
 
+- [blinko-space/blinko](https://github.com/blinko-space/blinko) - An open-source, self-hosted personal note tool prioritizing privacy, built using TypeScript .
 - [JamieMason/ImageOptim-CLI](https://github.com/JamieMason/ImageOptim-CLI) - Make optimisation of images part of your automated build process
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
@@ -874,7 +877,6 @@
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [nix-community/vscode-nix-ide](https://github.com/nix-community/vscode-nix-ide) - Nix language support for VSCode editor [maintainer: @jnoortheen]
-- [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [hqwuzhaoyi/gpt-subtitle](https://github.com/hqwuzhaoyi/gpt-subtitle) - 
 - [hyoban/obsidian-memos-plugin](https://github.com/hyoban/obsidian-memos-plugin) - 
 - [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
