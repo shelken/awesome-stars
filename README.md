@@ -585,7 +585,7 @@
 - [QiuChenly/InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 - [SakuraLLM/SakuraLLM](https://github.com/SakuraLLM/SakuraLLM) - 适配轻小说/Galgame的日中翻译大模型
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
-- [AIHawk-co/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-co/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
+- [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents.
 - [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
@@ -848,7 +848,7 @@
 - [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
 - [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
 - [chengfengfengwang/lingo-link](https://github.com/chengfengfengwang/lingo-link) - 一个支持大模型的浏览器划词翻译插件 / a browser extension primarily designed for translation of selected text
-- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
+- [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow your favorites in one inbox
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [redotvideo/revideo](https://github.com/redotvideo/revideo) - Create Videos with Code
