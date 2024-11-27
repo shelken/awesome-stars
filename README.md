@@ -318,6 +318,7 @@
 
 ## JavaScript 
 
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [anker1209/Scriptable](https://github.com/anker1209/Scriptable) - 
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
@@ -382,7 +383,7 @@
 - [fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid) - :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [SukkaW/OpenCore-Document-zh_Hans](https://github.com/SukkaW/OpenCore-Document-zh_Hans) - [非官方/Unofficial] OpenCore Bootloader 参考手册简体中文翻译
-- [talebook/talebook](https://github.com/talebook/talebook) - A simple books website. 一个简单的在线版个人书库。
+- [talebook/talebook](https://github.com/talebook/talebook) - 一个简单好用的个人书库
 - [download-online-video/chrome-avgle-helper](https://github.com/download-online-video/chrome-avgle-helper) - 👏 A Chrome extension for Avgle and other interesting video sites. Downloader inside
 - [Aizhuxueliang/springboot-vue](https://github.com/Aizhuxueliang/springboot-vue) - springboot+vue实现增删改查及分页小DEMO
 
