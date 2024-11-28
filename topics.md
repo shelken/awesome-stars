@@ -28,6 +28,7 @@
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
+- [clash](#clash)
 - [cli](#cli)
 - [coding](#coding)
 - [computer-science](#computer-science)
@@ -392,6 +393,17 @@
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [download-online-video/chrome-avgle-helper](https://github.com/download-online-video/chrome-avgle-helper) - 👏 A Chrome extension for Avgle and other interesting video sites. Downloader inside
+
+## clash 
+
+- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
+- [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
+- [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω&lt; )⌒☆​
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
+- [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+- [Toperlock/sing-box-subscribe](https://github.com/Toperlock/sing-box-subscribe) - 
+- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+- [limbopro/Profiles4limbo](https://github.com/limbopro/Profiles4limbo) - 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。
 
 ## cli 
 
@@ -1436,7 +1448,6 @@
 - [SendWithSES/Drag-and-Drop-Email-Designer](https://github.com/SendWithSES/Drag-and-Drop-Email-Designer) - Free, open source, HTML email template editor and no code designer.
 - [sve1r/Rules-For-Quantumult-X](https://github.com/sve1r/Rules-For-Quantumult-X) - 适用于 Quantumult X 规则整理集合. 所有内容源自 互联网,仅作为收集和整理
 - [Koolson/Qure](https://github.com/Koolson/Qure) - Quantumult X Policy Icon Set
-- [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 - [glomatico/gamdl](https://github.com/glomatico/gamdl) - A Python CLI app for downloading Apple Music songs/music videos/posts.
 - [rdiff-backup/rdiff-backup](https://github.com/rdiff-backup/rdiff-backup) - Reverse differential backup tool, over a network or locally.
 - [MetaCubeX/Yacd-meta](https://github.com/MetaCubeX/Yacd-meta) - Yet Another Clash Dashboard
@@ -1630,7 +1641,6 @@
 - [yaya131/OpenWrt_R7800_Stable](https://github.com/yaya131/OpenWrt_R7800_Stable) - 跟随闭源主线更新。CMCC-RAX3000M极致版，更新频率：跟随源码更新而更新，包含部分机型R7800 ---XR500
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
 - [solstice23/hexo-theme-argon](https://github.com/solstice23/hexo-theme-argon) - Argon-Theme 的 Hexo 移植版
-- [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
 - [MrH723/Actions-OpenWrt](https://github.com/MrH723/Actions-OpenWrt) - -OpenWrt全网插件汇总-多种设备OpenWrt固件自动云编译。X86-64主路由，x86-64旁路由、x86-64插件全家桶、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、竞斗云、小、小米 R3G、极路由 B70、小米 R3P、小米 Mini、网件 R7800、娱 C5、R2SNanoPI NEO2、等。
@@ -1641,7 +1651,6 @@
 - [xfangfang/Macast-plugins](https://github.com/xfangfang/Macast-plugins) - Plugin repository for Macast
 - [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide) - 中文技术文档的写作规范
 - [NobyDa/Script](https://github.com/NobyDa/Script) - This project is based on the scripting capabilities of several excellent iOS proxy tools (e.g. Surge, Quantumult X)
-- [limbopro/Profiles4limbo](https://github.com/limbopro/Profiles4limbo) - 毒奶自用，懒人配置文件（Quantumult X）：去广告分流规则、Tiktok解锁重写、VSCO解锁、神机分流、blackmatrix7分流规则。
 - [lanceliao/china-holiday-calender](https://github.com/lanceliao/china-holiday-calender) - 2023-2025中国节假日、调休、补班日历，ICS格式，可供IPhone、Google Calendar、Outlook等客户端订阅，包含节假日API
 - [rq1025330/Actions-OP](https://github.com/rq1025330/Actions-OP) - 基于Lean大佬Lede源码编译。使用 Flippy 的 Openwrt 打包源码，主要制作 Phicomm N1、Amlogic S905x3 的 openwrt 固件及CR660X固件。
 - [jerrykuku/luci-theme-argon](https://github.com/jerrykuku/luci-theme-argon) - Argon is a clean and tidy OpenWrt LuCI theme that allows users to customize their login interface with images or videos.   It also supports automatic and manual switching between light and dark modes.
