@@ -372,7 +372,7 @@
 - [rq1025330/Actions-OP](https://github.com/rq1025330/Actions-OP) - 基于Lean大佬Lede源码编译。使用 Flippy 的 Openwrt 打包源码，主要制作 Phicomm N1、Amlogic S905x3 的 openwrt 固件及CR660X固件。
 - [listen1/listen1_desktop](https://github.com/listen1/listen1_desktop) - one for all free music in china (Windows, Mac, Linux desktop)
 - [georgehuan1994/DingDing-Automatic-Clock-in](https://github.com/georgehuan1994/DingDing-Automatic-Clock-in) - 钉钉全自动打卡脚本，基于auto.js，免root，适用于蓝牙考勤机
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [unbug/codelf](https://github.com/unbug/codelf) - A search tool helps dev to solve the naming things problem.
 - [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic) - 
 - [xieyushi/uniapp-alioss-util](https://github.com/xieyushi/uniapp-alioss-util) - uniapp阿里云oss图片直接上传(不需要后端做签名)
@@ -506,6 +506,7 @@
 
 ## Others 
 
+- [luestr/ProxyResource](https://github.com/luestr/ProxyResource) - 可莉的Loon资源库 | 插件 | 脚本 | 规则
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2024. with learning resources
 - [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
