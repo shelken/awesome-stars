@@ -841,6 +841,7 @@
 
 ## TypeScript 
 
+- [Arman19941113/dnd-resume](https://github.com/Arman19941113/dnd-resume) - 🚀 Resume Builder 在线简历生成工具
 - [danielpetho/fancy](https://github.com/danielpetho/fancy) - 
 - [Codennnn/Green-Wall](https://github.com/Codennnn/Green-Wall) - ⬜🟩 GitHub Contributions Graph Generator.  :octocat:
 - [asny415/okxtrade](https://github.com/asny415/okxtrade) - A simple robot for okx
