@@ -1629,7 +1629,7 @@
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
 - [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) - Stable Diffusion with Core ML on Apple Silicon
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
-- [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+- [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 - [DeppWang/Tools](https://github.com/DeppWang/Tools) - 🔧 推荐我使用过的、觉得还不错的软件工具，涉及 AI / macOS / iOS / Chrome 插件等。
 - [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE) - BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
