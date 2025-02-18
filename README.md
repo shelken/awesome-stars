@@ -50,6 +50,7 @@
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [YAML](#yaml)
 - [Zig](#zig)
 
 ## ASL 
@@ -755,7 +756,6 @@
 
 ## Shell 
 
-- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 - [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - 
 - [mattieb/windows-esd-to-iso](https://github.com/mattieb/windows-esd-to-iso) - converts a Windows 11 ESD to an ISO image
 - [mattieb/download-windows-esd](https://github.com/mattieb/download-windows-esd) - download Windows 11 ESDs directly from Microsoft
@@ -971,6 +971,10 @@
 - [jsososo/soso-music](https://github.com/jsososo/soso-music) - electron music app
 - [jsososo/NeteaseMusic](https://github.com/jsososo/NeteaseMusic) - 网易云音乐 & QQ音乐 & 咪咕音乐 第三方 web端 (可播放 vip、下架歌曲)
 - [PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) - :tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin
+
+## YAML 
+
+- [onedr0p/home-ops](https://github.com/onedr0p/home-ops) - Wife approved HomeOps driven by Kubernetes and GitOps using Flux
 
 ## Zig 
 
