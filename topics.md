@@ -252,7 +252,7 @@
 
 ## angular 
 
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强轻量级导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 最强轻量级导航网站
 
 ## ansible 
 
@@ -564,7 +564,7 @@
 - [guangzhengli/k8s-tutorials](https://github.com/guangzhengli/k8s-tutorials) - k8s tutorials | k8s 教程
 - [rapenne-s/bento](https://github.com/rapenne-s/bento) - A KISS deployment tool to keep your NixOS fleet (servers & workstations) up to date.
 - [zhaofengli/colmena](https://github.com/zhaofengli/colmena) - A simple, stateless NixOS deployment tool
-- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - install nixos everywhere via ssh [maintainer=@numtide]
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=Mic92, Lassulus, phaer, Enzime]
 
 ## design 
 
@@ -642,7 +642,7 @@
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [0voice/k8s_awesome_document](https://github.com/0voice/k8s_awesome_document) - 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
 - [koel/docker](https://github.com/koel/docker) - A minimal docker image for the koel music streaming server.
@@ -660,7 +660,7 @@
 
 - [Tnixc/nix-config](https://github.com/Tnixc/nix-config) - Configs for nix-darwin
 - [mipmip/home-manager-option-search](https://github.com/mipmip/home-manager-option-search) - Home Manager Option Search
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix dev environment for macOS / NixOS (simple install) ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [FelixKratz/dotfiles](https://github.com/FelixKratz/dotfiles) - My personal macOS configuration
 - [Enzime/dotfiles-nix](https://github.com/Enzime/dotfiles-nix) - Use Nix to declaratively manage and configure all of my systems everywhere all at once
@@ -692,7 +692,7 @@
 
 ## emacs 
 
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix dev environment for macOS / NixOS (simple install) ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
 
 ## embedded 
 
@@ -883,7 +883,7 @@
 - [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 - [0voice/k8s_awesome_document](https://github.com/0voice/k8s_awesome_document) - 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 - [tophubs/TopList](https://github.com/tophubs/TopList) - 今日热榜，一个获取各大热门网站热门头条的聚合网站，使用Go语言编写，多协程异步快速抓取信息，预览:https://mo.fish
 - [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) - 🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)
 - [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。
@@ -1117,7 +1117,7 @@
 - [0voice/k8s_awesome_document](https://github.com/0voice/k8s_awesome_document) - 【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 
 ## latex 
 
@@ -1223,6 +1223,7 @@
 
 ## macos 
 
+- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [ygsgdbd/TypeSwitch](https://github.com/ygsgdbd/TypeSwitch) - A macOS app that automatically switches input methods for different applications. 自动切换不同应用输入法的 macOS 应用。
 - [Tnixc/nix-config](https://github.com/Tnixc/nix-config) - Configs for nix-darwin
@@ -1234,7 +1235,7 @@
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [GuillaumeGomez/sysinfo](https://github.com/GuillaumeGomez/sysinfo) - Cross-platform library to fetch system information
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Power Your World with AI - Explore, Extend, Empower.
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix dev environment for macOS / NixOS (simple install) ✨
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS / NixOS (with stater templates!)
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
 - [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 - [rgcr/m-cli](https://github.com/rgcr/m-cli) -  Swiss Army Knife for macOS
@@ -1398,7 +1399,7 @@
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
 - [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) - LangChain & LangGraph AI PDF chatbot agent
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 🔍 发现导航 , 最强轻量级导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 最强轻量级导航网站
 
 ## nlp 
 
@@ -2180,6 +2181,7 @@
 
 ## swift 
 
+- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [ygsgdbd/TypeSwitch](https://github.com/ygsgdbd/TypeSwitch) - A macOS app that automatically switches input methods for different applications. 自动切换不同应用输入法的 macOS 应用。
 - [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
@@ -2197,6 +2199,7 @@
 
 ## swiftui 
 
+- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors
 - [ygsgdbd/TypeSwitch](https://github.com/ygsgdbd/TypeSwitch) - A macOS app that automatically switches input methods for different applications. 自动切换不同应用输入法的 macOS 应用。
 - [MythicApp/Mythic](https://github.com/MythicApp/Mythic) - An open-source macOS game launcher with the ability to play Windows games through a custom implementation of Apple's Game Porting Toolkit — supporting multiple platforms.
 - [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
