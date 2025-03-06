@@ -433,6 +433,7 @@
 
 ## Lua 
 
+- [folke/flash.nvim](https://github.com/folke/flash.nvim) - Navigate your code with search labels, enhanced character motions and Treesitter integration
 - [0wQ/air780e-forwarder](https://github.com/0wQ/air780e-forwarder) - 合宙Air780系列4G模组，短信转发，来电通知，Air724在这里 -&gt; https://github.com/0wQ/air724ug-forwarder
 - [Tnixc/nix-config](https://github.com/Tnixc/nix-config) - Configs for nix-darwin
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
@@ -729,7 +730,7 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Feel-ix-343/markdown-oxide](https://github.com/Feel-ix-343/markdown-oxide) - PKM for the LSP
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 - [MordragT/comoji](https://github.com/MordragT/comoji) - 
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
