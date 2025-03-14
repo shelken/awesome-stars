@@ -606,6 +606,7 @@
 
 ## Python 
 
+- [ZHO-ZHO-ZHO/ComfyUI-Gemini](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini) - Using Gemini in ComfyUI
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
@@ -663,7 +664,7 @@
 - [postmanlabs/httpbin](https://github.com/postmanlabs/httpbin) - HTTP Request & Response Service, written in Python + Flask.
 - [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT) - AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
+- [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [homarr-labs/dashboard-icons](https://github.com/homarr-labs/dashboard-icons) - The best source for dashboard icons.
 - [biobootloader/wolverine](https://github.com/biobootloader/wolverine) - 
 - [iFargle/headscale-webui](https://github.com/iFargle/headscale-webui) - A simple Headscale web UI for small-scale deployments.
@@ -869,6 +870,7 @@
 
 ## TypeScript 
 
+- [leaper-one/MultiPost-Extension](https://github.com/leaper-one/MultiPost-Extension) - A browser extension that helps users publish content to multiple social media platforms with one click.
 - [mnfst/manifest](https://github.com/mnfst/manifest) - 🦚 The 1-file backend.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [LokerL/tts-vue](https://github.com/LokerL/tts-vue) - 🎤 微软语音合成工具，使用 Electron + Vue + ElementPlus + Vite 构建。
