@@ -773,6 +773,7 @@
 
 ## Shell 
 
+- [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please l
 - [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - 
 - [mattieb/windows-esd-to-iso](https://github.com/mattieb/windows-esd-to-iso) - converts a Windows 11 ESD to an ISO image
 - [mattieb/download-windows-esd](https://github.com/mattieb/download-windows-esd) - download Windows 11 ESDs directly from Microsoft
