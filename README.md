@@ -329,6 +329,8 @@
 
 ## JavaScript 
 
+- [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+- [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [SheepChef/Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，下一代文本脱敏和加密工具
@@ -611,6 +613,8 @@
 
 ## Python 
 
+- [trycua/cua](https://github.com/trycua/cua) - Create and run high-performance macOS and Linux VMs on Apple Silicon, with built-in support for AI agents.
+- [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [MahmoudAshraf97/ctc-forced-aligner](https://github.com/MahmoudAshraf97/ctc-forced-aligner) - Text to speech alignment using CTC forced alignment
 - [argmaxinc/whisperkittools](https://github.com/argmaxinc/whisperkittools) - Python tools for WhisperKit: Model conversion, optimization and evaluation
 - [speaches-ai/speaches](https://github.com/speaches-ai/speaches) - 
@@ -882,6 +886,8 @@
 
 ## TypeScript 
 
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+- [kepano/defuddle](https://github.com/kepano/defuddle) - Extract the main content from web pages.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright Tools for MCP
 - [lakshaybhushan/vecto3d](https://github.com/lakshaybhushan/vecto3d) - A super simple tool to convert your SVG's to 3D models.
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
@@ -981,7 +987,7 @@
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
-- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 最强轻量级导航网站
+- [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 最强轻量级导航网站 Discover Navigation, the Strongest Lightweight Navigation Website
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
 ## Vim Script 
