@@ -329,6 +329,7 @@
 
 ## JavaScript 
 
+- [kanoqwq/F50-SMS](https://github.com/kanoqwq/F50-SMS) - ZTE F50 SMS Receiver & Sender
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
