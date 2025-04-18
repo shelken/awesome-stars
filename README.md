@@ -617,7 +617,7 @@
 ## Python 
 
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
-- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker container layer for Computer-Use AI agents.
+- [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [MahmoudAshraf97/ctc-forced-aligner](https://github.com/MahmoudAshraf97/ctc-forced-aligner) - Text to speech alignment using CTC forced alignment
 - [argmaxinc/whisperkittools](https://github.com/argmaxinc/whisperkittools) - Python tools for WhisperKit: Model conversion, optimization and evaluation
