@@ -799,6 +799,7 @@
 
 ## Shell 
 
+- [pmkol/easymosdns](https://github.com/pmkol/easymosdns) - An easy script for the Mosdns basic functions, enabling you to set up a pollution-free DNS server that supports ECS in just a few minutes.
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  You've reached your trial request limit.  /  Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please l
 - [Kyle-Ye/XcodeLLMEligible](https://github.com/Kyle-Ye/XcodeLLMEligible) - 
 - [mattieb/windows-esd-to-iso](https://github.com/mattieb/windows-esd-to-iso) - converts a Windows 11 ESD to an ISO image
@@ -901,6 +902,7 @@
 
 ## TypeScript 
 
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links with analytics, manage emails and control subdomains—all on one platform.
