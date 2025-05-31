@@ -48,6 +48,7 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
+- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -69,7 +70,6 @@
 
 ## AutoHotkey 
 
-- [DeadlyVirusIn/PTCGPB](https://github.com/DeadlyVirusIn/PTCGPB) - AHK Pokemon Trading Card Game Pocket Bot to reroll accounts and find god packs
 - [Arturo-1212/PTCGPB](https://github.com/Arturo-1212/PTCGPB) - AHK Pokemon Trading Card Game Pocket Bot to reroll accounts and find god packs
 
 ## Batchfile 
@@ -189,7 +189,7 @@
 - [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework
 - [divan/txqr](https://github.com/divan/txqr) - Transfer data via animated QR codes
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repos
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud OS to Reclaim Your Data
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN) - 小巧精悍、准确、实用 GeoIP2 数据库
 - [cupcakearmy/autorestic](https://github.com/cupcakearmy/autorestic) - Config driven, easy backup cli for restic.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -903,6 +903,10 @@
 - [Pavo-IM/OC-Gen-X](https://github.com/Pavo-IM/OC-Gen-X) - OpenCore Config Generator
 - [gongjiehong/QMCDecode](https://github.com/gongjiehong/QMCDecode) - QQ音乐QMC格式转换为普通格式(qmcflac转flac，qmc0,qmc3转mp3, mflac,mflac0等转flac)，仅支持macOS，可自动识别到QQ音乐下载目录，默认转换结果存储到~/Music/QMCConvertOutput,可自定义需要转换的文件和输出路径
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
+
+## Tcl 
+
+- [DeadlyVirusIn/PTCGPB](https://github.com/DeadlyVirusIn/PTCGPB) - AHK Pokemon Trading Card Game Pocket Bot to reroll accounts and find god packs
 
 ## TeX 
 
