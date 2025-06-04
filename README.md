@@ -48,7 +48,6 @@
 - [Starlark](#starlark)
 - [Svelte](#svelte)
 - [Swift](#swift)
-- [Tcl](#tcl)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
@@ -70,6 +69,7 @@
 
 ## AutoHotkey 
 
+- [DeadlyVirusIn/PTCGPB](https://github.com/DeadlyVirusIn/PTCGPB) - AHK Pokemon Trading Card Game Pocket Bot to reroll accounts and find god packs
 - [Arturo-1212/PTCGPB](https://github.com/Arturo-1212/PTCGPB) - AHK Pokemon Trading Card Game Pocket Bot to reroll accounts and find god packs
 
 ## Batchfile 
@@ -550,6 +550,7 @@
 
 ## Others 
 
+- [macos-fuse-t/fuse-t](https://github.com/macos-fuse-t/fuse-t) - 
 - [deepseek-ai/DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) - 
 - [karminski/one-small-step](https://github.com/karminski/one-small-step) - 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。
 - [aab0/awesome-jobs](https://github.com/aab0/awesome-jobs) - 每天收集互联网大厂开发岗位。
@@ -905,10 +906,6 @@
 - [Pavo-IM/OC-Gen-X](https://github.com/Pavo-IM/OC-Gen-X) - OpenCore Config Generator
 - [gongjiehong/QMCDecode](https://github.com/gongjiehong/QMCDecode) - QQ音乐QMC格式转换为普通格式(qmcflac转flac，qmc0,qmc3转mp3, mflac,mflac0等转flac)，仅支持macOS，可自动识别到QQ音乐下载目录，默认转换结果存储到~/Music/QMCConvertOutput,可自定义需要转换的文件和输出路径
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
-
-## Tcl 
-
-- [DeadlyVirusIn/PTCGPB](https://github.com/DeadlyVirusIn/PTCGPB) - AHK Pokemon Trading Card Game Pocket Bot to reroll accounts and find god packs
 
 ## TeX 
 
