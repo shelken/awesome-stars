@@ -173,6 +173,7 @@
 
 ## Go 
 
+- [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [k8s-gateway/k8s_gateway](https://github.com/k8s-gateway/k8s_gateway) - A CoreDNS plugin to resolve all types of external Kubernetes resources
 - [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes
@@ -264,7 +265,6 @@
 - [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
 - [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711/OPUS, relay, cluster, record, HTTP Notify/API/UI. 直播
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
-- [AlistGo/alist](https://github.com/AlistGo/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
 - [foamzou/media-get](https://github.com/foamzou/media-get) - Get the media through the url
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -931,6 +931,7 @@
 
 ## TypeScript 
 
+- [zxh326/kite](https://github.com/zxh326/kite) - 🪁 A modern, lightweight Kubernetes dashboard
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [Mereithhh/van-nav](https://github.com/Mereithhh/van-nav) - 一个轻量导航站，汇总你的所有服务。全平台支持，单文件部署，有配套浏览器插件
 - [ourongxing/newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
