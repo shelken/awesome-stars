@@ -661,6 +661,7 @@
 
 ## Python 
 
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [blacktwin/JBOPS](https://github.com/blacktwin/JBOPS) - Just a Bunch Of Plex Scripts
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
