@@ -101,6 +101,7 @@
 
 ## C# # 
 
+- [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [real-zony/ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX) - ZonyLrcToolsX 是一个能够方便地下载歌词的小软件。
 - [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
@@ -171,6 +172,7 @@
 
 ## Go 
 
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [oauth2-proxy/oauth2-proxy](https://github.com/oauth2-proxy/oauth2-proxy) - A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.
@@ -663,6 +665,8 @@
 
 ## Python 
 
+- [christiaangoossens/hass-oidc-auth](https://github.com/christiaangoossens/hass-oidc-auth) - OpenID Connect authentication provider for Home Assistant
+- [senshinya/singbox_ruleset](https://github.com/senshinya/singbox_ruleset) - 
 - [ggogel/seafile-containerized](https://github.com/ggogel/seafile-containerized) - A fully containerized deployment of Seafile for Docker, Docker Swarm and Kubernetes.
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
