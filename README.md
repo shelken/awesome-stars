@@ -300,6 +300,7 @@
 
 ## HTML 
 
+- [asahi-alarm/asahi-alarm](https://github.com/asahi-alarm/asahi-alarm) - 
 - [davesc63/GeoPort](https://github.com/davesc63/GeoPort) - GeoPort: Your Location, Anywhere! The iOS location simulator
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
@@ -589,6 +590,7 @@
 - [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [Koolson/Qure](https://github.com/Koolson/Qure) - Quantumult X Policy Icon Set
+- [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs
 - [catppuccin/github-readme-tech-stack](https://github.com/catppuccin/github-readme-tech-stack) - 🪄 Soothing pastel theme for GitHub Readme Tech Stack
 - [catppuccin/squirrel](https://github.com/catppuccin/squirrel) - 🖌 Soothing pastel theme for Squirrel (Rime for MacOS)
 - [ddgksf2013/ddgksf2013](https://github.com/ddgksf2013/ddgksf2013) - 墨鱼去广告计划 | QuantumultX 去广告 | 去开屏广告 | 应用净化 | 会员解锁 | 墨鱼配置 | 应用增强 | 网页优化 | 网盘资源 | 模块去广告 | 圈 X 配置 | Shadowrocket配置 | 墨鱼规则 | Clash配置 | 小火箭去广告 | 资源库 | AdBlock | 网页广告 | 不完全指北
@@ -851,6 +853,7 @@
 
 ## Shell 
 
+- [nilszeilon/armarchy](https://github.com/nilszeilon/armarchy) - Opinionated Arch/Hyprland Setup
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [sbwml/luci-app-mosdns](https://github.com/sbwml/luci-app-mosdns) - 一个 DNS 转发器 - OpenWrt 🎁 MosDNS v5 is Ready! 🎉
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
@@ -1022,7 +1025,6 @@
 - [dsrkafuu/sakana-widget](https://github.com/dsrkafuu/sakana-widget) - Sakana widget for Web. | 网页小组件版本的石蒜模拟器。
 - [catppuccin/yazi](https://github.com/catppuccin/yazi) - 🐥 Soothing pastel theme for Yazi
 - [catppuccin/bat](https://github.com/catppuccin/bat) - 🦇️ Soothing pastel theme for Bat
-- [catppuccin/jetbrains](https://github.com/catppuccin/jetbrains) - 🧠 Soothing pastel theme for JetBrains IDEs
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [openai-translator/openai-translator](https://github.com/openai-translator/openai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
