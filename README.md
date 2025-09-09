@@ -276,7 +276,7 @@
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [jeessy2/ddns-go](https://github.com/jeessy2/ddns-go) - Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...
 - [disksing/sao-gen-gen](https://github.com/disksing/sao-gen-gen) - 骚话生成器生成器
-- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la
+- [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementati
 - [q191201771/lal](https://github.com/q191201771/lal) - 🔥 Golang audio/video live streaming lib/client/server. support RTMP, RTSP(RTP/RTCP), HLS, HTTP[S]/WebSocket-FLV/TS, GB28181, H264/H265/AAC/G711/OPUS, relay, cluster, record, HTTP Notify/API/UI. 直播
 - [gorse-io/gorse](https://github.com/gorse-io/gorse) - Gorse open source recommender system engine
 - [astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang) - A golang ebook intro how to build a web with golang
@@ -371,6 +371,7 @@
 
 ## JavaScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject) - 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [shidahuilang/pve](https://github.com/shidahuilang/pve) - PVE开启直通+CPU硬盘温度显示,风扇转速+一些群辉自用的小脚本
@@ -713,7 +714,7 @@
 - [Asthestarsfalll/img2art](https://github.com/Asthestarsfalll/img2art) - Convert image/gif/video to ascii art.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
-- [versun/RSS-Translator](https://github.com/versun/RSS-Translator) - 开源、简洁、可自部署的RSS翻译器 | Translate RSS feeds into your language!
+- [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [nextrevision/ansible-swarm-playbook](https://github.com/nextrevision/ansible-swarm-playbook) - Playbook for creating/managing a Docker Swarm cluster
 - [chrieke/prettymapp](https://github.com/chrieke/prettymapp) - 🖼️ Create beautiful maps from OpenStreetMap data in a streamlit webapp
@@ -803,6 +804,7 @@
 
 ## Rust 
 
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [mbilker/vgpu_unlock-rs](https://github.com/mbilker/vgpu_unlock-rs) - Unlock vGPU functionality for consumer grade GPUs
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -968,6 +970,7 @@
 
 ## TypeScript 
 
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - qwen-code is a coding agent that lives in digital world.
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
