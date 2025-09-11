@@ -804,6 +804,7 @@
 
 ## Rust 
 
+- [librespeed/speedtest-rust](https://github.com/librespeed/speedtest-rust) - Rust backend for LibreSpeed
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [nix-community/nh](https://github.com/nix-community/nh) - Yet another Nix CLI helper. [Maintainers=@NotAShelf]
 - [mbilker/vgpu_unlock-rs](https://github.com/mbilker/vgpu_unlock-rs) - Unlock vGPU functionality for consumer grade GPUs
