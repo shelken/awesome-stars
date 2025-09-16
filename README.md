@@ -537,7 +537,7 @@
 
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [NixOS/nixos-hardware](https://github.com/NixOS/nixos-hardware) - A collection of NixOS modules covering hardware quirks.
-- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix configuration for macOS or NixOS w/ step-by-step instructions
+- [dustinlyons/nixos-config](https://github.com/dustinlyons/nixos-config) - General purpose Nix starter template for macOS or NixOS w/ step-by-step instructions
 - [hlissner/dotfiles](https://github.com/hlissner/dotfiles) - And I say hey, what's going on?
 - [nix-community/nixos-vscode-server](https://github.com/nix-community/nixos-vscode-server) - Visual Studio Code Server support in NixOS
 - [shelken/dotfiles.nix](https://github.com/shelken/dotfiles.nix) - nix dotfiles
