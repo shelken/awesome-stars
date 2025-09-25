@@ -30,6 +30,7 @@
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
 - [cli](#cli)
+- [cloud](#cloud)
 - [coding](#coding)
 - [computer-science](#computer-science)
 - [computer-vision](#computer-vision)
@@ -505,6 +506,16 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
 
+## cloud 
+
+- [spegel-org/spegel](https://github.com/spegel-org/spegel) - Stateless cluster local OCI registry mirror.
+- [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
+- [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
+- [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
+- [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+- [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
+
 ## coding 
 
 - [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
@@ -677,6 +688,7 @@
 
 ## docker 
 
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 基于Go的自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。单域名实现所有功能，支持仓库审计。流式转发，无缓存。
 - [ggogel/seafile-containerized](https://github.com/ggogel/seafile-containerized) - A fully containerized deployment of Seafile for Docker, Docker Swarm and Kubernetes.
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
@@ -1543,7 +1555,7 @@
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [chartbrew/chartbrew](https://github.com/chartbrew/chartbrew) - Open-source web platform used to create live reporting dashboards from APIs, MongoDB, Firestore, MySQL, PostgreSQL, and more  📈📊
-- [javaoffers/briefest](https://github.com/javaoffers/briefest) - Brief's core Object/Relational Mapping functionality. SQL must be easy, business can be complex
+- [javaoffers/briefest](https://github.com/javaoffers/briefest) - Brief's core Object/Relational Mapping functionality. SQL must be simple and beautiful.  business can be complex
 - [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Real-time observability system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
@@ -1731,6 +1743,7 @@
 
 ## others 
 
+- [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [Gabriella439/nixos-in-production](https://github.com/Gabriella439/nixos-in-production) - Source files for the book "NixOS in Production"
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [jondkinney/armarchy](https://github.com/jondkinney/armarchy) - Opinionated Arch/Hyprland Setup
@@ -2055,7 +2068,6 @@
 - [t-shao/-Hackintosh-OMEN_by_HP_Laptop_15-ce0xx](https://github.com/t-shao/-Hackintosh-OMEN_by_HP_Laptop_15-ce0xx) - EFI bootloader (OpenCore) configuration for OMEN by HP Laptop 15-ce0xx
 - [jsososo/soso-music](https://github.com/jsososo/soso-music) - electron music app
 - [georgehuan1994/DingDing-Automatic-Clock-in](https://github.com/georgehuan1994/DingDing-Automatic-Clock-in) - 钉钉全自动打卡脚本，基于auto.js，免root，适用于蓝牙考勤机
-- [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
 - [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 软路由固件
 - [XIU2/TrackersListCollection](https://github.com/XIU2/TrackersListCollection) - 🎈 Updated daily! A list of popular BitTorrent Trackers! / 每天更新！全网热门 BT Tracker 列表！
 - [VergilGao/docker-mdc](https://github.com/VergilGao/docker-mdc) - https://github.com/yoshiko2/Movie_Data_Capture 的 docker镜像，帮助你更优雅的管理硬盘中的大姐姐们。
@@ -2357,6 +2369,7 @@
 
 ## security 
 
+- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
@@ -2442,7 +2455,7 @@
 ## spring-boot 
 
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
-- [javaoffers/briefest](https://github.com/javaoffers/briefest) - Brief's core Object/Relational Mapping functionality. SQL must be easy, business can be complex
+- [javaoffers/briefest](https://github.com/javaoffers/briefest) - Brief's core Object/Relational Mapping functionality. SQL must be simple and beautiful.  business can be complex
 - [Flying9001/springBootDemo](https://github.com/Flying9001/springBootDemo) - springBoot demo
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
