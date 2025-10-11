@@ -375,6 +375,7 @@
 
 ## JavaScript 
 
+- [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [yan5xu/ququ](https://github.com/yan5xu/ququ) - 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
 - [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
@@ -947,6 +948,7 @@
 
 ## Swift 
 
+- [Lakr233/Asspp](https://github.com/Lakr233/Asspp) - The App Store for your multi-account eco system.
 - [nook-browser/Nook](https://github.com/nook-browser/Nook) - A new browser, not owned by Atlassian.
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡
 - [argmaxinc/WhisperKit](https://github.com/argmaxinc/WhisperKit) - On-device Speech Recognition for Apple Silicon
