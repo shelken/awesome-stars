@@ -1775,6 +1775,7 @@
 
 ## others 
 
+- [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
 - [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 - [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
