@@ -587,7 +587,6 @@
 ## Objective-C 
 
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
-- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 - [noah-nuebling/mac-mouse-fix](https://github.com/noah-nuebling/mac-mouse-fix) - Mac Mouse Fix - Make Your $10 Mouse Better Than an Apple Trackpad!
@@ -951,6 +950,7 @@
 
 ## Svelte 
 
+- [Lissy93/networking-toolbox](https://github.com/Lissy93/networking-toolbox) - 🛜 100+ offline-first networking tools and utilities
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [dbgate/dbgate](https://github.com/dbgate/dbgate) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others. Runs under Windows, Linux, Mac or as web application
 
@@ -974,6 +974,7 @@
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub) - A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command line interface
+- [tisfeng/Easydict](https://github.com/tisfeng/Easydict) - 一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t
 - [DamascenoRafael/reminders-menubar](https://github.com/DamascenoRafael/reminders-menubar) - Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.
 - [ninxsoft/Mist](https://github.com/ninxsoft/Mist) - A Mac utility that automatically downloads macOS Firmwares / Installers.
 - [Whisky-App/Whisky](https://github.com/Whisky-App/Whisky) - A modern Wine wrapper for macOS built with SwiftUI
