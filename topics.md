@@ -1280,6 +1280,7 @@
 
 ## kubernetes 
 
+- [jfroy/flatops](https://github.com/jfroy/flatops) - My homelab k8s cluster, powered by Talos Linux and shoe string
 - [nekomeowww/ollama-operator](https://github.com/nekomeowww/ollama-operator) - 🚢 Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 🐫
 - [ggogel/seafile-containerized](https://github.com/ggogel/seafile-containerized) - A fully containerized deployment of Seafile for Docker, Docker Swarm and Kubernetes.
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
