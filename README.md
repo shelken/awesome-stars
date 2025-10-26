@@ -24,6 +24,7 @@
 - [HTML](#html)
 - [Haml](#haml)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -335,6 +336,10 @@
 - [NixOS/nixfmt](https://github.com/NixOS/nixfmt) - The official formatter for Nix code
 - [berberman/nvfetcher](https://github.com/berberman/nvfetcher) - Generate nix sources expr for the latest version of packages
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+
+## JSON 
+
+- [jfroy/flatops](https://github.com/jfroy/flatops) - My homelab k8s cluster, powered by Talos Linux and shoe string
 
 ## Java 
 
