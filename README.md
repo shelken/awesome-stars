@@ -447,7 +447,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [timqian/openprompt.co](https://github.com/timqian/openprompt.co) - Create. Use. Share. ChatGPT prompts
 - [gnehs/subtitle-translator](https://github.com/gnehs/subtitle-translator) - Translate subtitle using ChatGPT
-- [sirpdboy/luci-app-netdata](https://github.com/sirpdboy/luci-app-netdata) - luci-app-netdata js版，适配openwrt24.10最新版本，netdata V2.7.2 支持绝对可控制服务进程和改变访问端口。
+- [sirpdboy/luci-app-netdata](https://github.com/sirpdboy/luci-app-netdata) - luci-app-netdata js版，适配openwrt24.10最新JS版本，netdata 全版本支持绝对可控制服务进程和改变访问端口。
 - [reorx/jsoncv](https://github.com/reorx/jsoncv) - A toolkit for building your CV with JSON and creating stylish HTML/PDF files.
 - [immersive-translate/old-immersive-translate](https://github.com/immersive-translate/old-immersive-translate) - Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content. Think of the browser's reading mode, but in immersive translation.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
