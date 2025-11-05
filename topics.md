@@ -2032,7 +2032,7 @@
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [sirpdboy/luci-app-netdata](https://github.com/sirpdboy/luci-app-netdata) - luci-app-netdata js版，适配openwrt24.10最新版本，netdata V2.7.2 支持绝对可控制服务进程和改变访问端口。
+- [sirpdboy/luci-app-netdata](https://github.com/sirpdboy/luci-app-netdata) - luci-app-netdata js版，适配openwrt24.10最新JS版本，netdata 全版本支持绝对可控制服务进程和改变访问端口。
 - [harubaru/waifu-diffusion](https://github.com/harubaru/waifu-diffusion) - stable diffusion finetuned on weeb stuff
 - [Sygil-Dev/sygil-webui](https://github.com/Sygil-Dev/sygil-webui) - Stable Diffusion web UI
 - [ChineseSubFinder/ChineseSubFinder](https://github.com/ChineseSubFinder/ChineseSubFinder) - 自动化中文字幕下载。字幕网站支持 shooter、xunlei、arrst、a4k、SubtitleBest 。支持 Emby、Jellyfin、Plex、Sonarr、Radarr、TMM
