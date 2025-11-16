@@ -115,6 +115,7 @@
 ## C++ 
 
 - [sbarex/QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS Quick Look extension for Markdown files.
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
@@ -524,6 +525,7 @@
 
 ## Lua 
 
+- [xiaorouji/openwrt-passwall](https://github.com/xiaorouji/openwrt-passwall) - 
 - [mogenson/PaperWM.spoon](https://github.com/mogenson/PaperWM.spoon) - Tiled scrollable window manager for MacOS
 - [MeanderingProgrammer/render-markdown.nvim](https://github.com/MeanderingProgrammer/render-markdown.nvim) - Plugin to improve viewing Markdown files in Neovim
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) - IDE-like breadcrumbs, out of the box
@@ -614,6 +616,7 @@
 
 ## Others 
 
+- [yannh/kubernetes-json-schema](https://github.com/yannh/kubernetes-json-schema) - JSON Schemas for every version of every object in every version of Kubernetes
 - [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [Malfhas/caddy-grafana](https://github.com/Malfhas/caddy-grafana) - Monitoring Caddy Server with Grafana (Prometheus + Loki) on Debian
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
@@ -701,7 +704,6 @@
 ## Python 
 
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent.
-- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [christiaangoossens/hass-oidc-auth](https://github.com/christiaangoossens/hass-oidc-auth) - OpenID Connect authentication provider for Home Assistant
 - [senshinya/singbox_ruleset](https://github.com/senshinya/singbox_ruleset) - 
