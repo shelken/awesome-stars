@@ -707,8 +707,9 @@
 
 ## Python 
 
+- [starsliao/Prometheus](https://github.com/starsliao/Prometheus) - Grafana Dashboards for Prometheus Exporter
 - [crowdsecurity/hub](https://github.com/crowdsecurity/hub) - Main repository for crowdsec scenarios/parsers
-- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots / 生产级 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatGPT(
+- [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for QQ / QQ频道 / Discord / LINE / WeChat(微信, 企业微信)/ Telegram / 飞书 / 钉钉 / Slack e.g. Integrated with ChatGPT(
 - [frankovo/dns-benchmark-tool](https://github.com/frankovo/dns-benchmark-tool) - Fast, comprehensive DNS performance testing with DNSSEC validation, DoH/DoT support, and enterprise features
 - [MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi CLI is your next CLI agent.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
@@ -1035,6 +1036,7 @@
 
 ## TypeScript 
 
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [LeslieLeung/glean](https://github.com/LeslieLeung/glean) - A self-hosted RSS reader and personal knowledge management tool.
 - [maoxiaoke/r2Uploader](https://github.com/maoxiaoke/r2Uploader) - User-friendly GUI application for Cloudflare R2
@@ -1168,7 +1170,7 @@
 - [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 - [liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan) - 阿里云盘小白羊版  阿里云盘PC版 aliyundriver
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-- [labring/sealos](https://github.com/labring/sealos) - The Intelligent Cloud OS. Use AI to automate the full lifecycle of your development and production environments, from provisioning custom dev stacks and deploying self-optimizing databases (MySQL, Pos
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
 - [xjh22222228/nav](https://github.com/xjh22222228/nav) - 发现导航 , 好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
@@ -1184,6 +1186,7 @@
 
 ## Vue 
 
+- [CassInfra/KubeDoor](https://github.com/CassInfra/KubeDoor) - 花折：基于K8S准入控制机制的微服务管控平台，多K8S统一监控、告警、展示最佳实践
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [DeanWard/CaddyGen](https://github.com/DeanWard/CaddyGen) - Simplify Caddy configs with SSL, proxies, file servers, security headers, compression & more.
