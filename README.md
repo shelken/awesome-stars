@@ -831,7 +831,7 @@
 - [t-shao/-Hackintosh-OMEN_by_HP_Laptop_15-ce0xx](https://github.com/t-shao/-Hackintosh-OMEN_by_HP_Laptop_15-ce0xx) - EFI bootloader (OpenCore) configuration for OMEN by HP Laptop 15-ce0xx
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
