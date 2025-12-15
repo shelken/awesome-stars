@@ -289,7 +289,7 @@
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 
 ## ai-agents 
 
@@ -487,7 +487,7 @@
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 
 ## chrome 
 
@@ -524,7 +524,7 @@
 
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
@@ -1310,7 +1310,7 @@
 - [shekhargulati/strman-java](https://github.com/shekhargulati/strman-java) - A Java 8 string manipulation library.
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
 - [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
@@ -1367,7 +1367,7 @@
 
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [Ecwid/clickhouse-client](https://github.com/Ecwid/clickhouse-client) - Java/Kotlin client for ClickHouse
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [YZune/WakeupSchedule_Kotlin](https://github.com/YZune/WakeupSchedule_Kotlin) - Wakeup课程表Kotlin重构版
 
 ## kubernetes 
@@ -2525,7 +2525,7 @@
 
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
@@ -2657,7 +2657,7 @@
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [dromara/x-file-storage](https://github.com/dromara/x-file-storage) - 一行代码将文件存储到 本地、FTP、SFTP、WebDAV、谷歌云存储、阿里云OSS、华为云OBS、七牛云Kodo、腾讯云COS、百度云 BOS、又拍云USS、MinIO、 AWS S3、FastDFS、 Azure Blob Storage、金山云 KS3、美团云 MSS、京东云 OSS、天翼云 OOS、移动云 EOS、沃云 OSS、 网易数帆 NOS、Ucloud US3、青云 QingSto
 - [ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples) - about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。
-- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、观影指南、读书笔记、生活感悟、Switch 游戏
+- [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 - [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [hansonwang99/JavaCollection](https://github.com/hansonwang99/JavaCollection) - Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章
@@ -2798,7 +2798,7 @@
 
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
 - [catppuccin/wezterm](https://github.com/catppuccin/wezterm) - :shell: Soothing pastel theme for WezTerm
