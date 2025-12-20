@@ -128,6 +128,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microservices](#microservices)
 - [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
@@ -252,6 +253,7 @@
 
 ## ai 
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [looplj/axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
@@ -753,6 +755,7 @@
 
 ## devops 
 
+- [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [sky22333/hubproxy](https://github.com/sky22333/hubproxy) - 自托管轻量级、高性能的多功能代理加速服务，提供 Docker 镜像加速、GitHub 加速、下载离线镜像等功能。一个二进制文件实现所有功能，支持仓库审计。流式转发，无缓存。
 - [TwiN/gatus](https://github.com/TwiN/gatus) - The most advanced status page in the world
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
@@ -802,6 +805,7 @@
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) - Remote development in Neovim 🔥
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [geerlingguy/ansible-role-docker](https://github.com/geerlingguy/ansible-role-docker) - Ansible Role - Docker
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
 - [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
@@ -927,6 +931,7 @@
 ## finance 
 
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 
 ## firebase 
 
@@ -1649,6 +1654,14 @@
 
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 
+## microservices 
+
+- [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
+- [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+- [alibaba/Sentinel](https://github.com/alibaba/Sentinel) - A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+- [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) - Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+
 ## mongodb 
 
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -2064,7 +2077,6 @@
 - [jimeh/tmuxifier](https://github.com/jimeh/tmuxifier) - Tmuxify your Tmux. Powerful session, window & pane management for Tmux.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [fbelavenuto/arpl](https://github.com/fbelavenuto/arpl) - Automated Redpill Loader
-- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-Source Personal Subscription Tracker
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [nextrevision/ansible-swarm-playbook](https://github.com/nextrevision/ansible-swarm-playbook) - Playbook for creating/managing a Docker Swarm cluster
@@ -2310,6 +2322,7 @@
 
 - [privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD) - 致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD 现已支持 AdGuardHome，dnsmasq，Surge，Pi-Hole，Clash, mihomo，smartdns，sing-box 等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式
 - [vrana/adminer](https://github.com/vrana/adminer) - Database management in a single PHP file
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [helloxz/onenav](https://github.com/helloxz/onenav) - 使用PHP + SQLite 3开发的书签管理系统，将浏览器书签集中式管理，做到一处部署，随处访问。
 
 ## postgresql 
@@ -2618,6 +2631,7 @@
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [versun/RSSBox](https://github.com/versun/RSSBox) - 让RSS管理更智能，让信息获取更高效 | Smarter RSS management, more efficient information access
+- [ellite/Wallos](https://github.com/ellite/Wallos) - Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.
 - [hslr-s/sun-panel](https://github.com/hslr-s/sun-panel) - A server, NAS navigation panel, Homepage, browser homepage. | 一个服务器、NAS导航面板、Homepage、浏览器首页。
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
