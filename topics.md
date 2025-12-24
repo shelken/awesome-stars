@@ -258,6 +258,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
 - [looplj/axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [nekomeowww/ollama-operator](https://github.com/nekomeowww/ollama-operator) - 🚢 Yet another operator for running large language models on Kubernetes with ease. Powered by Ollama! 🐫
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -1920,6 +1921,8 @@
 
 ## others 
 
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [Kamalnrf/claude-plugins](https://github.com/Kamalnrf/claude-plugins) - Lightweight registry to discover, install, and manage all public plugins and skills for Claude and Claude Code.
 - [doodledood/claude-code-plugins](https://github.com/doodledood/claude-code-plugins) - A curated marketplace of Claude Code plugins for agentic development workflows, featuring tools for architecture, knowledge management, and development automation
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -1945,7 +1948,6 @@
 - [mholt/caddy-l4](https://github.com/mholt/caddy-l4) - Layer 4 (TCP/UDP) app for Caddy
 - [executeautomation/mcp-playwright](https://github.com/executeautomation/mcp-playwright) - Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌
 - [runjuu/InputSourcePro](https://github.com/runjuu/InputSourcePro) - Switch and track your input sources with ease ✨
-- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development for AI coding assistants.
 - [NixOS/rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 - [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [rclone-ui/rclone-ui](https://github.com/rclone-ui/rclone-ui) - The cross-platform desktop GUI for rclone & S3.
