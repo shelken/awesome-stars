@@ -18,9 +18,9 @@
 - [Crystal](#crystal)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
-- [Fluent](#fluent)
 - [GLSL](#glsl)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HCL](#hcl)
 - [HTML](#html)
 - [Haml](#haml)
@@ -179,10 +179,6 @@
 - [koel/docker](https://github.com/koel/docker) - A minimal docker image for the koel music streaming server.
 - [VergilGao/docker-mdc](https://github.com/VergilGao/docker-mdc) - https://github.com/yoshiko2/Movie_Data_Capture 的 docker镜像，帮助你更优雅的管理硬盘中的大姐姐们。
 
-## Fluent 
-
-- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
-
 ## GLSL 
 
 - [sxyazi/dotfiles](https://github.com/sxyazi/dotfiles) - Some of the dotfiles I can't do without.
@@ -328,6 +324,10 @@
 - [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
 - [bitepeng/b0pass](https://github.com/bitepeng/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 
+## Go Template 
+
+- [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
+
 ## HCL 
 
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
@@ -335,7 +335,7 @@
 
 ## HTML 
 
-- [remorses/playwriter](https://github.com/remorses/playwriter) - The better playwright MCP: works as a browser extension. No context bloat. More capable.
+- [remorses/playwriter](https://github.com/remorses/playwriter) - MCP to control your Chrome window via extension. Runs Playwright code in a stateful sandbox.
 - [asahi-alarm/asahi-alarm](https://github.com/asahi-alarm/asahi-alarm) - 
 - [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject) - 美好世界你我相伴。同性恋🏳️‍🌈看过来，在这里找到我们的最爱！
 - [davesc63/GeoPort](https://github.com/davesc63/GeoPort) - GeoPort: Your Location, Anywhere! The iOS location simulator
@@ -418,13 +418,14 @@
 - [feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert) - Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等
 - [Stremio/stremio-web](https://github.com/Stremio/stremio-web) - Stremio - Freedom to Stream
 - [yan5xu/ququ](https://github.com/yan5xu/ququ) - 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
-- [jokob-sk/NetAlertX](https://github.com/jokob-sk/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
+- [netalertx/NetAlertX](https://github.com/netalertx/NetAlertX) - Network intruder and presence detector.  Scans for devices connected to your network and alerts you if new and unknown devices are found.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型聚合管理中转分发系统，一个应用管理您的所有AI模型，支持将多种大模型转为统一格式调用，支持OpenAI、Claude、Gemini等格式，可供个人或者企业内部管理与分发渠道使用。🍥 A Unified AI Model Management & Distribution System. Aggregate all your LLMs into one app and access them
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [shidahuilang/pve](https://github.com/shidahuilang/pve) - PVE开启直通+CPU硬盘温度显示,风扇转速+一些群辉自用的小脚本
 - [chen3861229/dd-danmaku](https://github.com/chen3861229/dd-danmaku) - Emby danmaku extension
 - [mrtian2016/hass-panel](https://github.com/mrtian2016/hass-panel) - 史上最简单的 Home Assistant 控制面板，基于 React 开发 | 一键部署到 HAOS | 有手就能用 | 无需编程经验 | 开箱即用
 - [kanoqwq/UFI-TOOLS](https://github.com/kanoqwq/UFI-TOOLS) - A functional tools for z*e devices (F50 | U30 Air)
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - Welcome to a calmer internet
 - [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [hexgrad/kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
@@ -720,6 +721,7 @@
 
 ## Python 
 
+- [PastKing/tgbot-verify](https://github.com/PastKing/tgbot-verify) - 一个基于 Python Telegram Bot 的自动化认证工具，能够自动完成 SheerID 平台的学生/教师身份验证流程。
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported and video recording
 - [AlexxIT/XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) - Home Assistant custom component for control Xiaomi Multimode Gateway (aka Gateway 3), Xiaomi Multimode Gateway 2, Aqara Hub E1 on default firmwares over LAN
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -1003,7 +1005,6 @@
 ## Smarty 
 
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts
-- [bjw-s-labs/helm-charts](https://github.com/bjw-s-labs/helm-charts) - A collection of Helm charts
 
 ## Starlark 
 
