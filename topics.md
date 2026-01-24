@@ -243,6 +243,7 @@
 
 ## agent 
 
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building IM bots - 生产级多平台 LLM 机器人开发平台. 提供 Agent、知识库编排、插件系统 / Bots for Discord / LINE / WeChat(企业微信, 企微智能机器人, 公众号) / Telegram / 飞书 / 钉钉 / QQ / QQ频道 / Slack e.g. Integrated
 - [looplj/axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
@@ -312,6 +313,7 @@
 
 ## ai-agents 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) - Claude Code skill to supercharge and manage all Home Assistant workflows
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future ses
@@ -748,6 +750,7 @@
 
 ## developer-tools 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
 - [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -1522,6 +1525,7 @@
 
 ## llm 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [FunAudioLLM/SenseVoice](https://github.com/FunAudioLLM/SenseVoice) - Multilingual Voice Understanding Model
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
@@ -1696,6 +1700,7 @@
 
 ## mcp 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [remorses/playwriter](https://github.com/remorses/playwriter) - MCP to control your Chrome window via extension. Runs Playwright code in a stateful sandbox.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
@@ -1704,7 +1709,7 @@
 - [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
@@ -1926,7 +1931,7 @@
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [frankovo/dns-benchmark-tool](https://github.com/frankovo/dns-benchmark-tool) - Fast, comprehensive DNS performance testing with DNSSEC validation, DoH/DoT support, and enterprise features
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [yan5xu/ququ](https://github.com/yan5xu/ququ) - 开源免费的 Wispr Flow 替代方案 | 集成FunASR本地模型和可配置大语言模型的下一代中文桌面语音工作流
 - [mnfst/manifest](https://github.com/mnfst/manifest) - A shadcn/ui library for building ChatGPT Apps
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
@@ -2444,6 +2449,7 @@
 
 ## productivity 
 
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - Generate a timeline of your day, automatically
@@ -2477,6 +2483,7 @@
 
 ## prompt-engineering 
 
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [IBM/mcp-context-forge](https://github.com/IBM/mcp-context-forge) - A Model Context Protocol (MCP) Gateway & Registry. Serves as a central management point for tools, resources, and prompts that can be accessed by MCP-compatible LLM applications. Converts REST API end
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
 - [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
@@ -2636,6 +2643,7 @@
 
 ## reverse-engineering 
 
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
 - [majd/ipatool](https://github.com/majd/ipatool) - Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store
 - [seemoo-lab/openhaystack](https://github.com/seemoo-lab/openhaystack) - Build your own 'AirTags' 🏷 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.
 
@@ -2655,7 +2663,7 @@
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder for the terminal.
 - [hatoo/oha](https://github.com/hatoo/oha) - Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.
 - [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [librespeed/speedtest-rust](https://github.com/librespeed/speedtest-rust) - Rust backend for LibreSpeed
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -2995,7 +3003,7 @@
 
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
