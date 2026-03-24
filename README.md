@@ -494,7 +494,6 @@
 - [ericandrewlewis/emoji-mosaic](https://github.com/ericandrewlewis/emoji-mosaic) - 
 - [xieyushi/uniapp-alioss-util](https://github.com/xieyushi/uniapp-alioss-util) - uniapp阿里云oss图片直接上传(不需要后端做签名)
 - [keepfool/vue-tutorials](https://github.com/keepfool/vue-tutorials) - Let you insight into the Vue.js
-- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue) - 基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。
 - [guren-cloud/v-request](https://github.com/guren-cloud/v-request) - 突破小程序网络请求限制黑科技，让你更自由地请求网站数据
 - [JihuTuo/StrayAnimals](https://github.com/JihuTuo/StrayAnimals) - 自己的毕设作品，是一个前后端分离的项目，分为前台门户系统和后台管理系统。前端基于Vue.js、Element UI、Axios等实现页面的构建和请求的发送，后端基于SpringBoot、MyBatis、Redis、Nginx实现。系统实现了流浪动物救助帖子的发布、回复、评论，以及宠物领养、宠物寻找、宠物咨询信息分享等功能，后台管理系统可以对用户、帖子等信息实现批量管理、审核、修改等操作。集成了百度
@@ -631,10 +630,12 @@
 - [waydabber/m1ddc](https://github.com/waydabber/m1ddc) - This little tool controls external displays (connected via USB-C/DisplayPort Alt Mode) using DDC/CI on Apple Silicon Macs. Useful to embed in various scripts.
 - [chanify/chanify-ios](https://github.com/chanify/chanify-ios) - Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
+- [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [mattingalls/Soundflower](https://github.com/mattingalls/Soundflower) - MacOS system extension that allows applications to pass audio to other applications. Soundflower works on macOS Catalina.
 
 ## Others 
 
+- [tw93/claude-health](https://github.com/tw93/claude-health) - 🤫 Claude Code skill: audit your Claude Code config health across all layers
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [drewocarr/generate-shortcuts-skill](https://github.com/drewocarr/generate-shortcuts-skill) - a little skill that explains the shortcuts plist format to claude
 - [SpotCompiled/SpotC-Plus-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.
@@ -1088,6 +1089,8 @@
 
 ## TypeScript 
 
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
+- [badlogic/cchistory](https://github.com/badlogic/cchistory) - Extract and compare system prompts and tools from different Claude Code versions
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [foru17/neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis.
