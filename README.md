@@ -532,7 +532,7 @@
 
 ## Kotlin 
 
-- [tangcent/easy-yapi](https://github.com/tangcent/easy-yapi) - Generate API document to yapi
+- [tangcent/easy-yapi](https://github.com/tangcent/easy-yapi) - IntelliJ plugin that generates API docs from Java/Kotlin projects and syncs them directly to YApi, with built-in request testing   and multi-channel export.
 - [tuchg/ChinesePinyin-CodeCompletionHelper](https://github.com/tuchg/ChinesePinyin-CodeCompletionHelper) - 让你的 JetBrains 系 IDE ( IDEA ,PyCharm,PhpStorm,WebStorm,AndroidStudio,GoLand等 )支持中文标识符以拼音/五笔等输入方式完成代码补全，享受和英文环境一致的中文智能编码体验，为代码表达提供更多选择，一种值得考虑的折中解决方案📏
 - [gotson/komga](https://github.com/gotson/komga) - Media server for comics/mangas/BDs/magazines/eBooks with API, OPDS, Kobo Sync and KOReader Sync support
 - [Ecwid/clickhouse-client](https://github.com/Ecwid/clickhouse-client) - Java/Kotlin client for ClickHouse
@@ -638,7 +638,6 @@
 ## Others 
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
-- [tw93/claude-health](https://github.com/tw93/claude-health) - 🤫 Claude Code skill: audit your Claude Code config health across all layers
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [drewocarr/generate-shortcuts-skill](https://github.com/drewocarr/generate-shortcuts-skill) - a little skill that explains the shortcuts plist format to claude
 - [SpotCompiled/SpotC-Plus-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.
@@ -734,6 +733,7 @@
 
 ## Python 
 
+- [zc-zhangchen/any-auto-register](https://github.com/zc-zhangchen/any-auto-register) - 
 - [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it.   A common shape for agents that live alongside people.
@@ -968,6 +968,7 @@
 
 - [FradSer/dotclaude](https://github.com/FradSer/dotclaude) - A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership.
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
+- [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Claude Code skills for the complete engineer: think, build, debug, write, learn.
 - [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
 - [khadas/utils](https://github.com/khadas/utils) - Utils/Tools for development
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
