@@ -729,7 +729,7 @@
 ## Perl 
 
 - [sullo/nikto](https://github.com/sullo/nikto) - Nikto web server scanner
-- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system
+- [NixOS/hydra](https://github.com/NixOS/hydra) - Hydra, the Nix-based continuous build system [maintainers=@dasj,@Ericson2314]
 
 ## Python 
 
