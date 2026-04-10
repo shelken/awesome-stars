@@ -265,6 +265,7 @@
 
 ## ai 
 
+- [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitH
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it.   A common shape for agents that live alongside people.
@@ -1491,7 +1492,7 @@
 - [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [waifulabs/infrastructure](https://github.com/waifulabs/infrastructure) - Fiance unapproved kubernetes cluster running Talos, Flux, Renovate and GHA.
-- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
+- [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices. Mirror of https://git.bjw-s.dev/bjw-s/home-ops
 - [kashalls/kromgo](https://github.com/kashalls/kromgo) - Easily expose preconfigured prometheus metrics to the outside using badges.
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
@@ -2077,7 +2078,7 @@
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
-- [chenyme/grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 构建的 Grok2API，全面适配 OpenAI 兼容的调用格式，支持流式/非流式对话、图像生成、图像编辑、视频生成、工具调用、语音聊天、一键NSFW、号池并发与自动负载均衡一体化。
+- [chenyme/grok2api](https://github.com/chenyme/grok2api) - Grok2API 是一个基于 FastAPI 构建的 Grok 网关，支持将 Grok Web 能力以 OpenAI 兼容 API 的方式转换。
 - [hanreev/root-bluestacks-air](https://github.com/hanreev/root-bluestacks-air) - Root BlueStacks Air macOS
 - [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) - Application to track your Pokemon Pocket collection and find others to trade with
 - [flibustier/pokemon-tcg-exchange](https://github.com/flibustier/pokemon-tcg-exchange) - Exchange and trade your Pokemon TCG Pocket cards with anyone!
