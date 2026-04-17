@@ -190,7 +190,7 @@
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude model through API
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
 - [hslatman/caddy-crowdsec-bouncer](https://github.com/hslatman/caddy-crowdsec-bouncer) - A Caddy module that blocks malicious traffic based on decisions made by CrowdSec.
 - [kdwils/envoy-proxy-crowdsec-bouncer](https://github.com/kdwils/envoy-proxy-crowdsec-bouncer) - A lightweight Crowdsec remediation component for envoy proxy
@@ -639,8 +639,8 @@
 
 ## Others 
 
+- [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜Chinese-first AI writing refinement skill that reduces boilerplate and AI tone while preserving facts, terminology, and technical context.
 - [luoling8192/ai-coding-principles](https://github.com/luoling8192/ai-coding-principles) - A collection of Claude Code skills that enforce coding discipline and prevent common AI coding anti-patterns.
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [drewocarr/generate-shortcuts-skill](https://github.com/drewocarr/generate-shortcuts-skill) - a little skill that explains the shortcuts plist format to claude
 - [SpotCompiled/SpotC-Plus-Plus](https://github.com/SpotCompiled/SpotC-Plus-Plus) - Compiled EeveeSpotify + QOL Enhancements IPA's, the ultimate compilement.
@@ -975,6 +975,7 @@
 
 - [iamtouchskyer/opc](https://github.com/iamtouchskyer/opc) - OPC — One Person Company. A full team in a single Claude Code skill. Adaptive agent orchestrator with 11 built-in roles, 4 modes, and adversarial quality control.
 - [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) - Make any LLM talk like a normal person. A system prompt that removes AI slop.
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill (High-Agency Frontend) - gives your AI good taste. stops the AI from generating boring, generic, "slop"
 - [FradSer/dotclaude](https://github.com/FradSer/dotclaude) - A comprehensive development environment with specialized AI agents for code review, security analysis, and technical leadership.
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
@@ -1113,6 +1114,8 @@
 
 ## TypeScript 
 
+- [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
+- [uriafranko/pi-rollback](https://github.com/uriafranko/pi-rollback) - 
 - [iamtouchskyer/memex](https://github.com/iamtouchskyer/memex) - Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [hjanuschka/pi-multi-pass](https://github.com/hjanuschka/pi-multi-pass) - Multi-subscription extension for pi -- use multiple OAuth accounts per provider (Anthropic, Codex, Copilot, Gemini, Antigravity)
