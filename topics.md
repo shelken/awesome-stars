@@ -331,8 +331,10 @@
 
 ## ai-agents 
 
+- [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [teng-lin/agent-fetch](https://github.com/teng-lin/agent-fetch) - Full-content web fetcher for AI agents — Chrome TLS fingerprinting, browser impersonation, and    multi-strategy article extraction
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
+- [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it.   A common shape for agents that live alongside people.
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [komal-SkyNET/claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant) - Claude Code skill to supercharge and manage all Home Assistant workflows
@@ -576,6 +578,7 @@
 
 ## claude-code 
 
+- [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜Chinese-first AI writing refinement skill that reduces boilerplate and AI tone while preserving facts, terminology, and technical context.
 - [iamtouchskyer/memex](https://github.com/iamtouchskyer/memex) - Zettelkasten-based persistent memory for AI coding agents. Works with Claude Code, Cursor, VS Code Copilot, Codex, Windsurf & any MCP client. No vector DB — just markdown + git sync.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -2095,6 +2098,11 @@
 
 ## others 
 
+- [Gurpartap/pi-mermaid](https://github.com/Gurpartap/pi-mermaid) - 🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI, with width-aware output and safe handling for larger diagrams.
+- [badlogic/pi-share-hf](https://github.com/badlogic/pi-share-hf) - Collect, review, and upload redacted pi session files to a Hugging Face dataset
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Thirteen editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [jordyvandomselaar/pi-openai-compaction](https://github.com/jordyvandomselaar/pi-openai-compaction) - 
+- [algal/pi-openai-server-compaction](https://github.com/algal/pi-openai-server-compaction) - 
 - [jonjonrankin/pi-caveman](https://github.com/jonjonrankin/pi-caveman) - Me think, why waste time say lot word, when few word do trick
 - [davebcn87/pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) - Autonomous experiment loop extension for pi
 - [uriafranko/pi-rollback](https://github.com/uriafranko/pi-rollback) - 
