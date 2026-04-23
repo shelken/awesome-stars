@@ -85,7 +85,6 @@
 ## C 
 
 - [aarond10/https_dns_proxy](https://github.com/aarond10/https_dns_proxy) - A lightweight DNS-over-HTTPS proxy.
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [hanwckf/immortalwrt-mt798x](https://github.com/hanwckf/immortalwrt-mt798x) - An Immortalwrt variant for mediatek mt798x routers.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
@@ -740,6 +739,7 @@
 
 ## Python 
 
+- [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
 - [public-clis/bilibili-cli](https://github.com/public-clis/bilibili-cli) - A CLI for Bilibili — browse videos, users, search, and feeds from the terminal
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
@@ -1119,6 +1119,8 @@
 
 ## TypeScript 
 
+- [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
+- [walodayeet/hindsight-pi](https://github.com/walodayeet/hindsight-pi) - Hindsight memory extension for pi coding agent
 - [iRonin/pi-less-shitty](https://github.com/iRonin/pi-less-shitty) - 
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [MattDevy/pi-extensions](https://github.com/MattDevy/pi-extensions) - A set of pi-extensions, including pi-continuous-learning that continually improves you pi coding agent experience
@@ -1370,6 +1372,7 @@
 ## Zig 
 
 - [Loongphy/codex-auth](https://github.com/Loongphy/codex-auth) - A CLI tool to switch and manage Codex accounts
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 
 ## License
