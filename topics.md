@@ -557,6 +557,7 @@
 
 ## chrome-extension 
 
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [deathau/markdownload](https://github.com/deathau/markdownload) - A Firefox and Google Chrome extension to clip websites and download them into a readable markdown file.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
 - [n4ze3m/page-assist](https://github.com/n4ze3m/page-assist) - Use your locally running AI models to assist you in your web browsing
@@ -1032,6 +1033,7 @@
 
 ## english 
 
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 
 ## es6 
@@ -1354,7 +1356,6 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
-- [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [getanteon/anteon](https://github.com/getanteon/anteon) - Anteon (formerly Ddosify): eBPF-based Kubernetes Monitoring and Performance Testing
@@ -1628,6 +1629,7 @@
 
 ## llm 
 
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [MattDevy/pi-extensions](https://github.com/MattDevy/pi-extensions) - A set of pi-extensions, including pi-continuous-learning that continually improves you pi coding agent experience
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -2077,6 +2079,7 @@
 
 ## openai 
 
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -2122,6 +2125,7 @@
 
 ## others 
 
+- [IgorWarzocha/pi-auto-trees](https://github.com/IgorWarzocha/pi-auto-trees) - 
 - [mhmtszr/go-guidelines](https://github.com/mhmtszr/go-guidelines) - Make your AI code agent write production-grade Go instead of tutorial-grade Go. A plugin for Cursor & Claude Code with version-aware guidelines (Go 1.0–1.26) covering modern syntax, performance tuning
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [modem-dev/slop-scan](https://github.com/modem-dev/slop-scan) - Detect AI code slop patterns in your repo
@@ -2786,6 +2790,7 @@
 
 ## react 
 
+- [mengxi-ream/read-frog](https://github.com/mengxi-ream/read-frog) - 🐸 Read Frog - Open Source Immersive Translate | 🐸 陪读蛙 - 开源沉浸式翻译
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML and CSV into interactive graphs.
