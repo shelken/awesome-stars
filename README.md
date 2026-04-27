@@ -84,6 +84,8 @@
 
 ## C 
 
+- [Jack-R1/SiriRemoteVoiceDecoder](https://github.com/Jack-R1/SiriRemoteVoiceDecoder) - Apple TV 4th Generation Remote (SiriRemote) Opus Voice Decoder for macOS
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [aarond10/https_dns_proxy](https://github.com/aarond10/https_dns_proxy) - A lightweight DNS-over-HTTPS proxy.
 - [hanwckf/immortalwrt-mt798x](https://github.com/hanwckf/immortalwrt-mt798x) - An Immortalwrt variant for mediatek mt798x routers.
 - [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
@@ -581,6 +583,7 @@
 
 ## Makefile 
 
+- [hyperb1iss/hyperskills](https://github.com/hyperb1iss/hyperskills) - My collection of agent skills for a variety of tasks
 - [tbc0309/openwrt-netbird](https://github.com/tbc0309/openwrt-netbird) - OpenWrt package for netbird
 - [natrontech/alertmanager-uptime-kuma-push](https://github.com/natrontech/alertmanager-uptime-kuma-push) - Alertmanager Middleware for Uptime Kuma Push monitor
 - [chaseSpace/k8s-tutorial-cn](https://github.com/chaseSpace/k8s-tutorial-cn) - The most(might be) detailed Kubernetes tutorials in Chinese.  全网（可能）最详细的Kubernetes中文教程。
@@ -1075,6 +1078,7 @@
 
 ## Swift 
 
+- [lauschue/Remotastic](https://github.com/lauschue/Remotastic) - Remotastic is a macOS menu bar app that lets you control your Mac with an Apple TV Siri Remote, providing cursor movement, scrolling, and customizable button mappings for media control and navigation.
 - [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
 - [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
@@ -1082,7 +1086,6 @@
 - [steipete/imsg](https://github.com/steipete/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
 - [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [kushalpandya/Petrichor](https://github.com/kushalpandya/Petrichor) - An offline macOS music player
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that's developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation.
 - [SideStore/SideStore](https://github.com/SideStore/SideStore) - SideStore is a fork of AltStore that doesn't require an AltServer.
