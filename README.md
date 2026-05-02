@@ -238,7 +238,7 @@
 - [alexellis/k3sup](https://github.com/alexellis/k3sup) - bootstrap K3s over SSH in &lt; 60s 🚀
 - [Septrum101/zteOnu](https://github.com/Septrum101/zteOnu) - A tool that can open ZTE onu device factory mode
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
-- [itstoragesvc/dnscontrol](https://github.com/itstoragesvc/dnscontrol) - Infrastructure as code for DNS!
+- [DNSControl/dnscontrol](https://github.com/DNSControl/dnscontrol) - Infrastructure as code for DNS!
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [Kuingsmile/decodeGoogleOTP](https://github.com/Kuingsmile/decodeGoogleOTP) - Decode one time password (OTP) secrets from QR codes exported by Google Authenticator.
@@ -648,6 +648,7 @@
 
 ## Others 
 
+- [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills) - Platform design skill pack: 300+ rules for Apple HIG, Material Design 3, and WCAG 2.2 across iOS, iPadOS, macOS, watchOS, visionOS, tvOS, Android, and Web.
 - [luoling8192/software-design-philosophy-skill](https://github.com/luoling8192/software-design-philosophy-skill) - Claude Code skill: Software design philosophy guide based on A Philosophy of Software Design by John Ousterhout
 - [mhmtszr/go-guidelines](https://github.com/mhmtszr/go-guidelines) - Make your AI code agent write production-grade Go instead of tutorial-grade Go. A plugin for Cursor & Claude Code with version-aware guidelines (Go 1.0–1.26) covering modern syntax, performance tuning
@@ -692,7 +693,7 @@
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [waylau/essential-netty-in-action](https://github.com/waylau/essential-netty-in-action) - It is a book about the Essentials of Norman Maurer's Netty in Action.《Netty 实战(精髓)》是对 Norman Maurer 的 《Netty in Action》的一个精简
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 字幕机翻，翻译字幕文件 .srt .ass .vtt，和同类产品相比，特点是可以自己填写 API key，这样价格最低。最新版本 5.3.7 - 发布时间 2025 年 9 月 10 号
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
 - [NSRingo/iRingo](https://github.com/NSRingo/iRingo) - 解锁完整的 Apple功能和集成服务
 - [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
@@ -752,6 +753,8 @@
 
 ## Python 
 
+- [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
+- [martinopiaggi/summarize](https://github.com/martinopiaggi/summarize) - Video transcript AI summarization from multiple sources (YouTube, X, Instagram, TikTok, Reddit, Facebook, Google Drive, Dropbox, and local files).
 - [lllyasviel/VCC](https://github.com/lllyasviel/VCC) - Compile agent conversations!
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
@@ -1138,6 +1141,7 @@
 
 ## TypeScript 
 
+- [raphaelsalaja/audio](https://github.com/raphaelsalaja/audio) - Declarative audio synthesis for the web
 - [nicobailon/pi-custom-compaction](https://github.com/nicobailon/pi-custom-compaction) - 
 - [glittercowboy/taches-cc-resources](https://github.com/glittercowboy/taches-cc-resources) - A collection of my favorite custom Claude Code resources to make life easier.
 - [mitsuhiko/pi-draw](https://github.com/mitsuhiko/pi-draw) - For when you want to draw something for the clanker
