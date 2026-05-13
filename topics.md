@@ -2188,6 +2188,8 @@
 
 ## others 
 
+- [Michaelliv/pi-goal](https://github.com/Michaelliv/pi-goal) - Persistent autonomous goals for pi
+- [championswimmer/pi-context-usage](https://github.com/championswimmer/pi-context-usage) - 
 - [ssweens/pi-packages](https://github.com/ssweens/pi-packages) - Pi coding agent extension packages
 - [HazAT/pi-config](https://github.com/HazAT/pi-config) - My personal pi coding agent configuration - skills and extensions
 - [melihmucuk/pi-crew](https://github.com/melihmucuk/pi-crew) - Non-blocking subagent orchestration for pi. Spawn isolated agents that work in parallel while your session stays interactive.
@@ -2311,7 +2313,7 @@
 - [sodiboo/niri-flake](https://github.com/sodiboo/niri-flake) - Nix-native configuration for niri
 - [jondkinney/armarchy](https://github.com/jondkinney/armarchy) - Opinionated Arch/Hyprland Setup
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [nilszeilon/armarchy](https://github.com/nilszeilon/armarchy) - Opinionated Arch/Hyprland Setup
 - [asahi-alarm/asahi-alarm](https://github.com/asahi-alarm/asahi-alarm) - 
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
