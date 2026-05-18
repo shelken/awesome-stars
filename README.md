@@ -192,7 +192,7 @@
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model throu
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
 - [hslatman/caddy-crowdsec-bouncer](https://github.com/hslatman/caddy-crowdsec-bouncer) - A Caddy module that blocks malicious traffic based on decisions made by CrowdSec.
 - [kdwils/envoy-proxy-crowdsec-bouncer](https://github.com/kdwils/envoy-proxy-crowdsec-bouncer) - A lightweight Crowdsec remediation component for envoy proxy
@@ -695,7 +695,7 @@
 - [521xueweihan/git-tips](https://github.com/521xueweihan/git-tips) - :trollface:Git的奇技淫巧
 - [waylau/essential-netty-in-action](https://github.com/waylau/essential-netty-in-action) - It is a book about the Essentials of Norman Maurer's Netty in Action.《Netty 实战(精髓)》是对 Norman Maurer 的 《Netty in Action》的一个精简
 - [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
-- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年5月4号更新 v5.5.2 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
+- [1c7/Translate-Subtitle-File](https://github.com/1c7/Translate-Subtitle-File) - 🔥（26年5月6号更新 v5.5.4 版）产品名："译幕"，用途：翻译字幕文件 .srt .ass .vtt。软件有网页版（zimoo.app）和桌面版 。主要卖点：用户自己 API key，这样价格最低 （产品英文名：Zimoo） BYOK（Bring Your Own Key）
 - [NSRingo/iRingo](https://github.com/NSRingo/iRingo) - 解锁完整的 Apple功能和集成服务
 - [leiurayer/downkyi](https://github.com/leiurayer/downkyi) - 哔哩下载姬downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
@@ -1145,6 +1145,7 @@
 
 ## TypeScript 
 
+- [championswimmer/pi-context-prune](https://github.com/championswimmer/pi-context-prune) - Pi coding-agent extension for pruning tool-call trees
 - [vercel-labs/dev3000](https://github.com/vercel-labs/dev3000) - Captures your web app's complete development timeline - server logs, browser events, console messages, network requests, and automatic screenshots - in a unified, timestamped feed for AI debugging.
 - [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [tintinweb/pi-subagents](https://github.com/tintinweb/pi-subagents) - Sub-agents for pi with Claude Code look and feel — parallel execution, live widget, custom agent types, mid-run steering and more ...
