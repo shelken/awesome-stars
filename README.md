@@ -381,7 +381,7 @@
 
 - [wushuo894/ani-rss](https://github.com/wushuo894/ani-rss) - 基于RSS自动追番、订阅、下载、刮削、洗版
 - [vran-dev/databasir](https://github.com/vran-dev/databasir) - 数据库文档管理中心
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台，「低代码 + 零代码」双模式驱动：低代码一键生成前后端代码，零代码 5 分钟搭建系统，AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
 - [pazone/ashot](https://github.com/pazone/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [zq2599/blog_demos](https://github.com/zq2599/blog_demos) - CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面
@@ -422,6 +422,7 @@
 ## JavaScript 
 
 - [NikiforovAll/pi-inspect](https://github.com/NikiforovAll/pi-inspect) - Introspection dashboard for the pi coding agent — tools, prompts, skills, and the system prompt injected on init.
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 - [vibe-cafe/vibe-usage](https://github.com/vibe-cafe/vibe-usage) - Token 使用量统计工具（CLI）
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
@@ -1090,7 +1091,6 @@
 
 - [Cizzuk/Side-Search](https://github.com/Cizzuk/Side-Search) - サイドボタンをカスタマイズ
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
 - [maria-rcks/miri](https://github.com/maria-rcks/miri) - Niri-ish, keyboard-first window manager for macOS.
 - [lauschue/Remotastic](https://github.com/lauschue/Remotastic) - Remotastic is a macOS menu bar app that lets you control your Mac with an Apple TV Siri Remote, providing cursor movement, scrolling, and customizable button mappings for media control and navigation.
 - [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
@@ -1165,7 +1165,7 @@
 - [ssweens/pi-packages](https://github.com/ssweens/pi-packages) - Pi coding agent extension packages
 - [Dwsy/pi-session-manager](https://github.com/Dwsy/pi-session-manager) - Pi session manager for browsing, searching, and resuming Pi AI coding sessions. Related project: https://github.com/badlogic/pi-mono
 - [melihmucuk/pi-crew](https://github.com/melihmucuk/pi-crew) - Non-blocking subagent orchestration for pi. Spawn isolated agents that work in parallel while your session stays interactive.
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed p
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [default-anton/pi-subdir-context](https://github.com/default-anton/pi-subdir-context) - Automatically load AGENTS.md context from subdirectories in pi coding agent
 - [mattleong/pi-better-openai](https://github.com/mattleong/pi-better-openai) - A pi extension for OpenAI subscription workflows: fast mode, usage visibility, footer polish, and image generation through openai-codex auth.
 - [bruno-garcia/pi-co-authored-by](https://github.com/bruno-garcia/pi-co-authored-by) - Automatically appends git trailers to commit messages Co-Authored-By and Generated-By
