@@ -2233,6 +2233,7 @@
 
 ## others 
 
+- [fitchmultz/pi-codex-goal](https://github.com/fitchmultz/pi-codex-goal) - Codex-style goal tracking and continuation for pi.
 - [alleneubank/claude-code](https://github.com/alleneubank/claude-code) - Comprehensive configuration system for Claude Code
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - 
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
@@ -2279,7 +2280,7 @@
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 - [lllyasviel/VCC](https://github.com/lllyasviel/VCC) - Compile agent conversations!
 - [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc) - Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-preserving summaries using pure extraction and formatting.
-- [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - control your applications using pi-coding-agent. fully invisible.
+- [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - Pi extension for desktop & browser automation on MacOS
 - [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [walodayeet/hindsight-pi](https://github.com/walodayeet/hindsight-pi) - Hindsight memory extension for pi coding agent
