@@ -1157,6 +1157,7 @@
 
 ## TypeScript 
 
+- [fitchmultz/pi-codex-goal](https://github.com/fitchmultz/pi-codex-goal) - Codex-style goal tracking and continuation for pi.
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - 
 - [ogulcancelik/pi-extensions](https://github.com/ogulcancelik/pi-extensions) - Extensions for pi, the terminal-based coding agent
 - [Jonghakseo/pi-extension](https://github.com/Jonghakseo/pi-extension) - Monorepo for standalone pi extensions
@@ -1194,7 +1195,7 @@
 - [IgorWarzocha/pi-auto-trees](https://github.com/IgorWarzocha/pi-auto-trees) - 
 - [modem-dev/slop-scan](https://github.com/modem-dev/slop-scan) - Detect AI code slop patterns in your repo
 - [sting8k/pi-vcc](https://github.com/sting8k/pi-vcc) - Smart, Fast & Lossless session compaction for Pi. No LLM calls - produces structured, transcript-preserving summaries using pure extraction and formatting.
-- [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - control your applications using pi-coding-agent. fully invisible.
+- [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - Pi extension for desktop & browser automation on MacOS
 - [svkozak/pi-acp](https://github.com/svkozak/pi-acp) - ACP adapter for pi coding agent
 - [walodayeet/hindsight-pi](https://github.com/walodayeet/hindsight-pi) - Hindsight memory extension for pi coding agent
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
