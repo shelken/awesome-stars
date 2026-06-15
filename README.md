@@ -657,7 +657,6 @@
 - [twostraws/Swift-Agent-Skills](https://github.com/twostraws/Swift-Agent-Skills) - A curated directory of open-source AI agent skills for Swift and Apple platform development.
 - [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 - [yetone/native-feel-skill](https://github.com/yetone/native-feel-skill) - An Agent Skill for designing cross-platform desktop apps that feel native — distilled from Raycast's 2.0 deep-dive and reverse engineering of Raycast Beta.app. Eight architectural tenets, four-layer a
-- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 179 rules that AI coding agents can use when writing Rust.
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [ehmo/platform-design-skills](https://github.com/ehmo/platform-design-skills) - Platform design skill pack: 300+ rules for Apple HIG, Material Design 3, and WCAG 2.2 across iOS, iPadOS, macOS, watchOS, visionOS, tvOS, Android, and Web.
 - [luoling8192/software-design-philosophy-skill](https://github.com/luoling8192/software-design-philosophy-skill) - Claude Code skill: Software design philosophy guide based on A Philosophy of Software Design by John Ousterhout
@@ -765,6 +764,7 @@
 
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [HazAT/pi-config](https://github.com/HazAT/pi-config) - My personal pi coding agent configuration - skills and extensions
+- [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 - [martinopiaggi/summarize](https://github.com/martinopiaggi/summarize) - Video AI summarization from multiple sources (YouTube, X, Instagram, TikTok, Reddit, Facebook, Google Drive, Dropbox, and local files).
 - [lllyasviel/VCC](https://github.com/lllyasviel/VCC) - Compile agent conversations!
