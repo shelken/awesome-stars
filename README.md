@@ -1059,7 +1059,7 @@
 - [lisenet/kubernetes-homelab](https://github.com/lisenet/kubernetes-homelab) - Building a Kubernetes homelab using kubeadm, Ansible, Helm and Terraform.
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]
 - [mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent) - Xray、Tuic、hysteria2、sing-box 八合一一键脚本
-- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hello World！非钟国优化线路使用不佳？不想中转？hysteria2一键搞定。
+- [emptysuns/Hi_Hysteria](https://github.com/emptysuns/Hi_Hysteria) - Hi  Hysteria! 科学上网服务器速度不佳？一键搞定 | One-click Hysteria2 installer & manager | i18n (English/中文/فارسی/Выберите язык) | mihomo & sing-box client config | Realm P2P | WARP
 - [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets) - 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [rupa/z](https://github.com/rupa/z) - z - jump around
@@ -1255,7 +1255,7 @@
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [foru17/neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An AI-powered Life Operating System for Magnifying Human Capabilities
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - An General Purpose AI Harness for magnifying human capabilities. [CODING, BUILDING, CREATING, BUSINESS, LIFE, WORK, ...]
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) - Application to track your Pokemon Pocket collection and find others to trade with
@@ -1409,7 +1409,7 @@
 - [netless-io/flat](https://github.com/netless-io/flat) - Project flat is the Web, Windows and macOS client of Agora Flat open source classroom.
 - [cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway) - 🔥 cool-admin(midway版)一个很酷的后台权限管理框架，Ai编码、流程编排、模块化、插件化、CRUD极速开发，永久开源免费，基于nodejs、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建
 - [liuzi6612/nav](https://github.com/liuzi6612/nav) - 发现导航，好用强大轻量级导航网站 Discover navigation, easy to use, powerful lightweight navigation website
-- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 微信小程序开发资源汇总 :100:
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
 ## Vim Script 
