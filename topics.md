@@ -49,6 +49,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [crawler](#crawler)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -420,11 +421,11 @@
 
 ## algorithm 
 
-- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 ## algorithms 
 
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - Crack LeetCode, not only how, but also why.
 - [hansonwang99/JavaCollection](https://github.com/hansonwang99/JavaCollection) - Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章
 
@@ -883,6 +884,10 @@
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
+
+## cryptography 
+
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 
 ## csharp 
 
@@ -1375,7 +1380,7 @@
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN) - 《The Way to Go》中文译本，中文正式名《Go 入门指南》
 - [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。
-- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 - [jinsi-ai/b0pass](https://github.com/jinsi-ai/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 
 ## golang 
@@ -1435,7 +1440,7 @@
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [jobbole/awesome-go-cn](https://github.com/jobbole/awesome-go-cn) - Go 资源大全中文版， 内容包括：Web框架、模板引擎、表单、身份认证、数据库、ORM框架、图片处理、文本处理、自然语言处理、机器学习、日志、代码分析、教程和（电子）书等。由「开源前哨」和「Go开发大全」微信团队维护。
 - [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 - [jinsi-ai/b0pass](https://github.com/jinsi-ai/b0pass) - 百灵快传(B0Pass)：基于Go语言的高性能 "手机电脑超大文件传输神器"、"局域网共享文件服务器"。LAN large file transfer tool。
 
 ## good-first-issue 
@@ -1616,7 +1621,7 @@
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [Lax/Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验
 - [chanify/chanify-ios](https://github.com/chanify/chanify-ios) - Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.
-- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 
 ## ipfs 
@@ -1664,7 +1669,7 @@
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 - [dcloudio/uni-app](https://github.com/dcloudio/uni-app) - A cross-platform framework using Vue.js
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 
@@ -1854,6 +1859,7 @@
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - Private AI platform for agents, assistants and enterprise search. Built-in Agent Builder, Deep research, Document analysis, Multi-model support, and API connectivity for agents.
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 
 ## localization 
 
@@ -1908,7 +1914,7 @@
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 
 ## macos 
 
@@ -2233,7 +2239,7 @@
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [syncthing/syncthing-macos](https://github.com/syncthing/syncthing-macos) - Official frugal and native macOS Syncthing application bundle
 - [chanify/chanify-ios](https://github.com/chanify/chanify-ios) - Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.
-- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 
 ## obsidian 
 
@@ -3356,7 +3362,7 @@
 - [jellyfin/Swiftfin](https://github.com/jellyfin/Swiftfin) - Native Jellyfin Client for iOS and tvOS
 - [Lax/Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) - 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地
+- [halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field) - ✍🏻 Source Code Deep Dives, System Design & Engineering Blogs | Halfrost-Field 冰霜之地：源码解析、系统设计与工程实践笔记
 - [SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese) - 中文版 Apple 官方《Swift 编程语言》
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 
