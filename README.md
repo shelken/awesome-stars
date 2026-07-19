@@ -42,6 +42,7 @@
 - [PLpgSQL](#plpgsql)
 - [Perl](#perl)
 - [Python](#python)
+- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -196,7 +197,7 @@
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
-- [chenyme/grok2api](https://github.com/chenyme/grok2api) - 面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关
+- [chenyme/grok2api](https://github.com/chenyme/grok2api) - Multi-account API gateway for Grok Build, Grok Web, and Grok Console
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
@@ -773,6 +774,7 @@
 
 ## Python 
 
+- [ttttmr/pi-context](https://github.com/ttttmr/pi-context) - Letting AI Actively Manage Its Own Context
 - [Doriandarko/texts-to-transformer](https://github.com/Doriandarko/texts-to-transformer) - Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [HazAT/pi-config](https://github.com/HazAT/pi-config) - My personal pi coding agent configuration - skills and extensions
@@ -780,7 +782,7 @@
 - [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
 - [martinopiaggi/summarize](https://github.com/martinopiaggi/summarize) - Video AI summarization from multiple sources (YouTube, X, Instagram, TikTok, Reddit, Facebook, Google Drive, Dropbox, and local files).
 - [lllyasviel/VCC](https://github.com/lllyasviel/VCC) - Compile agent conversations!
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That  Learns
 - [MrGeDiao/shuorenhua](https://github.com/MrGeDiao/shuorenhua) - 说人话｜中文优先的去 AI 味改写 skill：保事实、分场景、改完可直接发。Chinese-first rewrite skill for Codex / Claude Code / Cursor / ChatGPT — removes AI tone, preserves facts.
@@ -822,7 +824,7 @@
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [CaddyBuilds/caddy-cloudflare](https://github.com/CaddyBuilds/caddy-cloudflare) - Caddy Docker image with Cloudflare DNS module
 - [NyaMisty/ipatool-py](https://github.com/NyaMisty/ipatool-py) - IPATool-py: download ipa easily
-- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
+- [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. Also checkout AgenticSeek successor 3Toks! http
 - [octodns/octodns](https://github.com/octodns/octodns) - Tools for managing DNS across multiple providers
 - [dreammis/social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
@@ -937,6 +939,10 @@
 - [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - Local Movies Organizer
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 
+## QML 
+
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
+
 ## Ruby 
 
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
@@ -1037,7 +1043,6 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [jondkinney/armarchy](https://github.com/jondkinney/armarchy) - Opinionated Arch/Hyprland Setup
 - [nilszeilon/armarchy](https://github.com/nilszeilon/armarchy) - Opinionated Arch/Hyprland Setup
-- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [hotio/cloudflareddns](https://github.com/hotio/cloudflareddns) - 
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
@@ -1109,6 +1114,7 @@
 
 ## Swift 
 
+- [dodo-reach/apple-pi](https://github.com/dodo-reach/apple-pi) - Native macOS app for Pi coding-agent. Browse, resume sessions, and run Pi terminal tabs locally or over SSH.
 - [lycorp-jp/sim-use](https://github.com/lycorp-jp/sim-use) - Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
 - [apphane-dev/nehir](https://github.com/apphane-dev/nehir) - Nehir — a tiling window manager for macOS
@@ -1176,6 +1182,8 @@
 
 ## TypeScript 
 
+- [QuintinShaw/pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) - Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standin
+- [edlsh/pi-ask-user](https://github.com/edlsh/pi-ask-user) - Interactive decision-gating extension for pi — lets AI agents ask users questions with multiple-choice and freeform answers
 - [tuxevil/pi-antigravity-rotator](https://github.com/tuxevil/pi-antigravity-rotator) - Intelligent multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, automatic token management, and infringement detection.
 - [majiayu000/profile-control-plane](https://github.com/majiayu000/profile-control-plane) - Compile a GitHub identity into an animated, dark/light, self-hosted profile README.
 - [jellydn/pi-clinepass-provider](https://github.com/jellydn/pi-clinepass-provider) - ClinePass provider for pi — 10 curated open-weight coding models (GLM-5.2, Kimi K2.7, DeepSeek V4, Qwen3.7, and more)
