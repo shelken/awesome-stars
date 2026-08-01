@@ -395,7 +395,7 @@
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) - Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [zq2599/blog_demos](https://github.com/zq2599/blog_demos) - CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面
 - [apache/flink-training](https://github.com/apache/flink-training) - Apache Flink Training Excercises
-- [javaoffers/briefest](https://github.com/javaoffers/briefest) - 八股社区-Briefest ORM is a powerful object/relational mapping solution for Java, and makes it easy to develop persistence logic for applications, libraries, and frameworks.
+- [javaoffers/briefest](https://github.com/javaoffers/briefest) - Briefest ORM is a powerful object/relational mapping solution for Java, and makes it easy to develop persistence logic for applications, libraries, and frameworks.
 - [Flying9001/springBootDemo](https://github.com/Flying9001/springBootDemo) - springBoot demo
 - [648540858/wvp-GB28181-pro](https://github.com/648540858/wvp-GB28181-pro) - 基于GB28181-2016、部标808、部标1078标准实现的开箱即用的网络视频平台。自带管理页面，支持NAT穿透，支持海康、大华、宇视等品牌的IPC、NVR接入。支持国标级联，支持将普通摄像机/直播流/直播推流转国标共享到国标平台。
 - [rookie-ricardo/BeanMappingKey](https://github.com/rookie-ricardo/BeanMappingKey) - An object mapping jetbrains plugin, it will automatically generate the get/set code between the two objects.
@@ -933,7 +933,7 @@
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [lukewaite/alfred-gitlab](https://github.com/lukewaite/alfred-gitlab) - A GitLab workflow for Alfred 3
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
-- [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
+- [hankcs/HanLP](https://github.com/hankcs/HanLP) - Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification
 - [TurboWay/bigdata_analyse](https://github.com/TurboWay/bigdata_analyse) - 大数据分析项目
 - [observerss/textfilter](https://github.com/observerss/textfilter) - 敏感词过滤的几种实现+某1w词敏感词库
 - [NateScarlet/holiday-cn](https://github.com/NateScarlet/holiday-cn) - 📅🇨🇳中国法定节假日数据 自动每日抓取国务院公告
@@ -966,7 +966,6 @@
 - [dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff) - The fastest and the most accurate file search SDK for AI agents, Neovim, Rust, C,  Python, Bun and NodeJS
 - [hank9999/kiro.rs](https://github.com/hank9999/kiro.rs) - A Kiro Client in Rust
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
-- [0xSero/litter](https://github.com/0xSero/litter) - 
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [injaneity/pi-computer-use](https://github.com/injaneity/pi-computer-use) - Let Pi control your apps on MacOS & Windows
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -1140,6 +1139,7 @@
 - [maria-rcks/miri](https://github.com/maria-rcks/miri) - Niri-ish, keyboard-first window manager for macOS.
 - [lauschue/Remotastic](https://github.com/lauschue/Remotastic) - Remotastic is a macOS menu bar app that lets you control your Mac with an Apple TV Siri Remote, providing cursor movement, scrolling, and customizable button mappings for media control and navigation.
 - [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
+- [0xSero/litter](https://github.com/0xSero/litter) - 
 - [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
