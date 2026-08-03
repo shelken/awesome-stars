@@ -29,7 +29,6 @@
 - [backend](#backend)
 - [bash](#bash)
 - [blockchain](#blockchain)
-- [bot](#bot)
 - [c](#c)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
@@ -270,7 +269,6 @@
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码迈入v2.0时代，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效
 - [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
@@ -283,6 +281,7 @@
 
 ## agent-skills 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
@@ -327,7 +326,7 @@
 
 ## ai 
 
-- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch — without opening an app. 5× faster, and design-first.
+- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.
 - [tuxevil/pi-antigravity-rotator](https://github.com/tuxevil/pi-antigravity-rotator) - Intelligent multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, automatic token management, and infringement detection.
 - [XiaomiMiMo/MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) - MiMo Code: Where Models and Agents Co-Evolve
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
@@ -406,8 +405,9 @@
 
 ## ai-agents 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
-- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch — without opening an app. 5× faster, and design-first.
+- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.
 - [edlsh/pi-ask-user](https://github.com/edlsh/pi-ask-user) - Interactive decision-gating extension for pi — lets AI agents ask users questions with multiple-choice and freeform answers
 - [dodo-reach/apple-pi](https://github.com/dodo-reach/apple-pi) - Native macOS app for Pi coding-agent. Browse, resume sessions, and run Pi terminal tabs locally or over SSH.
 - [tuxevil/pi-antigravity-rotator](https://github.com/tuxevil/pi-antigravity-rotator) - Intelligent multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, automatic token management, and infringement detection.
@@ -504,7 +504,6 @@
 
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
 - [supervc-stack/VectorChord](https://github.com/supervc-stack/VectorChord) - Scalable, fast, and disk-friendly vector search in Postgres, the successor of pgvecto.rs.
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Build AI Agents, Visually
@@ -520,7 +519,6 @@
 - [net-benchmark/dns-benchmark-tool](https://github.com/net-benchmark/dns-benchmark-tool) - Fast, comprehensive DNS performance testing with DNSSEC validation, DoH/DoT support, and enterprise features
 - [leaperone/MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) - A browser extension that helps users publish content to multiple social media platforms with one click.
 - [ygsgdbd/TypeSwitch](https://github.com/ygsgdbd/TypeSwitch) - A macOS app that automatically switches input methods for different applications. 自动切换不同应用输入法的 macOS 应用。
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
@@ -595,10 +593,6 @@
 
 - [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog) - 🪽 An open-source creative community written on the blockchain.
 
-## bot 
-
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
-
 ## c 
 
 - [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty) - If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.
@@ -623,7 +617,6 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [nicepkg/aide](https://github.com/nicepkg/aide) - Conquer Any Code in VSCode: One-Click Comments, Conversions, UI-to-Code, and AI Batch Processing of Files! 在 VSCode 中征服任何代码：一键注释、转换、UI 图生成代码、AI 批量处理文件！💪
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
@@ -651,7 +644,6 @@
 ## chrome 
 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [gotenberg/gotenberg](https://github.com/gotenberg/gotenberg) - A developer-friendly API for converting many document formats into PDF files, and more!
 - [immersive-translate/old-immersive-translate](https://github.com/immersive-translate/old-immersive-translate) - Let's experience immersive web translation, with bilingual simultaneous display and translation of only the important content. Think of the browser's reading mode, but in immersive translation.
 
@@ -684,6 +676,7 @@
 
 ## claude 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [muxy-app/muxy](https://github.com/muxy-app/muxy) - Lightweight and Memory efficient terminal for Mac built with SwiftUI and libghostty
 - [wevm/curl.md](https://github.com/wevm/curl.md) - URL to markdown for agents
 - [Willxup/cpa-usage-keeper](https://github.com/Willxup/cpa-usage-keeper) - Standalone CliProxyAPI usage tracker with SQLite persistence and built-in dashboard.
@@ -723,6 +716,7 @@
 
 ## claude-code 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 - [QuintinShaw/pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) - Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standin
 - [tuxevil/pi-antigravity-rotator](https://github.com/tuxevil/pi-antigravity-rotator) - Intelligent multi-account rotation proxy for Google Antigravity with per-model routing, real-time quota tracking, automatic token management, and infringement detection.
@@ -1005,6 +999,7 @@
 
 ## developer-tools 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [edlsh/pi-ask-user](https://github.com/edlsh/pi-ask-user) - Interactive decision-gating extension for pi — lets AI agents ask users questions with multiple-choice and freeform answers
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
@@ -1835,7 +1830,8 @@
 
 ## llm 
 
-- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch — without opening an app. 5× faster, and design-first.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.
 - [QuintinShaw/pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) - Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standin
 - [default-anton/pi-subdir-context](https://github.com/default-anton/pi-subdir-context) - Automatically load AGENTS.md context from subdirectories in pi coding agent
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
@@ -1940,7 +1936,7 @@
 
 - [HOLODATA-COM/SiriRemoteForge](https://github.com/HOLODATA-COM/SiriRemoteForge) - Turn a 3rd-gen Apple TV Siri Remote into a fully programmable macOS controller — remap every input via a hot-reloading config, with per-app profiles, layers, trackpad cursor control, and an experiment
 - [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac) - Surge-style whole-home gateway and control plane for macOS — mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
-- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch — without opening an app. 5× faster, and design-first.
+- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.
 - [didriksg/Crisp](https://github.com/didriksg/Crisp) - Free, open-source macOS alternative to BetterDisplay and Lunar: a lightweight menu bar app with sharp HiDPI/Retina scaling for external monitors (no more blurry or tiny text), plus brightness (DDC), v
 - [dodo-reach/apple-pi](https://github.com/dodo-reach/apple-pi) - Native macOS app for Pi coding-agent. Browse, resume sessions, and run Pi terminal tabs locally or over SSH.
 - [openai/tart](https://github.com/openai/tart) - macOS and Linux VMs on Apple Silicon to use in CI and other automations
@@ -2373,7 +2369,7 @@
 - [OpenMinis/OpenMinis](https://github.com/OpenMinis/OpenMinis) - OpenMinis — The AI Agent app across platforms. Fully free and open source.
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [Charles-0509/Grok-Register](https://github.com/Charles-0509/Grok-Register) - Grok free-register CLI: register → OAuth → CPA JSON (Go)
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [ttttmr/pi-context](https://github.com/ttttmr/pi-context) - Letting AI Actively Manage Its Own Context
 - [cloudmanic/herdr-plus](https://github.com/cloudmanic/herdr-plus) - An extension for herdr, built as a first-class herdr plugin — a collection of tools that make it better: Projects and Quick Actions.
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
@@ -2924,7 +2920,7 @@
 ## productivity 
 
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
-- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch — without opening an app. 5× faster, and design-first.
+- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.
@@ -2962,6 +2958,7 @@
 
 ## prompt-engineering 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [jau123/nanobanana-trending-prompts](https://github.com/jau123/nanobanana-trending-prompts) - 1,400+ curated trending AI image prompts from X, ranked by engagement. Works with NanoBanana, GPT Image 2, Midjourney
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
@@ -2997,7 +2994,6 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [milanm/DevOps-Roadmap](https://github.com/milanm/DevOps-Roadmap) - DevOps Roadmap for 2026. with learning resources
-- [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [doronz88/pymobiledevice3](https://github.com/doronz88/pymobiledevice3) - Pure python3 implementation for working with iDevices (iPhone, etc...).
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking) - :star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily. | Github仓库排名，每日自动更新
@@ -3384,7 +3380,7 @@
 ## swift 
 
 - [HOLODATA-COM/SiriRemoteForge](https://github.com/HOLODATA-COM/SiriRemoteForge) - Turn a 3rd-gen Apple TV Siri Remote into a fully programmable macOS controller — remap every input via a hot-reloading config, with per-app profiles, layers, trackpad cursor control, and an experiment
-- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch — without opening an app. 5× faster, and design-first.
+- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
 - [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
@@ -3417,8 +3413,7 @@
 ## swiftui 
 
 - [HOLODATA-COM/SiriRemoteForge](https://github.com/HOLODATA-COM/SiriRemoteForge) - Turn a 3rd-gen Apple TV Siri Remote into a fully programmable macOS controller — remap every input via a hot-reloading config, with per-app profiles, layers, trackpad cursor control, and an experiment
-- [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac) - Surge-style whole-home gateway and control plane for macOS — mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
-- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch — without opening an app. 5× faster, and design-first.
+- [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.
 - [dodo-reach/apple-pi](https://github.com/dodo-reach/apple-pi) - Native macOS app for Pi coding-agent. Browse, resume sessions, and run Pi terminal tabs locally or over SSH.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [darrylmorley/whatcable](https://github.com/darrylmorley/whatcable) - macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do
