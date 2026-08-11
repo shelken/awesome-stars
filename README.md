@@ -1198,6 +1198,8 @@
 
 ## TypeScript 
 
+- [elpapi42/pi-observational-memory](https://github.com/elpapi42/pi-observational-memory) - Make Pi sessions feel endless
+- [juicesharp/rpiv-mono](https://github.com/juicesharp/rpiv-mono) - Monorepo for @juicesharp/rpiv-* Pi plugins (lockstep versions, single install, single publish pipeline)
 - [PrimeIntellect-ai/prime-agent](https://github.com/PrimeIntellect-ai/prime-agent) - A self-improving RLM agent for coding workflows and long-running autonomous tasks.
 - [simonsmh/pi-provider-qoder](https://github.com/simonsmh/pi-provider-qoder) - A pi provider extension that connects pi to the Qoder API, exposing Qoder models through one provider surface.
 - [nicobailon/pi-intercom](https://github.com/nicobailon/pi-intercom) - Inter-session communication extension for pi coding agent
