@@ -2484,7 +2484,7 @@
 - [VandeeFeng/pi-memory-md](https://github.com/VandeeFeng/pi-memory-md) - 
 - [Gurpartap/pi-mermaid](https://github.com/Gurpartap/pi-mermaid) - 🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI, with width-aware output and safe handling for larger diagrams.
 - [badlogic/pi-share-hf](https://github.com/badlogic/pi-share-hf) - Collect, review, and upload redacted pi session files to a Hugging Face dataset
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.
 - [jordyvandomselaar/pi-openai-compaction](https://github.com/jordyvandomselaar/pi-openai-compaction) - 
 - [algal/pi-openai-server-compaction](https://github.com/algal/pi-openai-server-compaction) - 
 - [jonjonrankin/pi-caveman](https://github.com/jonjonrankin/pi-caveman) - Me think, why waste time say lot word, when few word do trick
