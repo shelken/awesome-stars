@@ -784,7 +784,7 @@
 
 ## Python 
 
-- [Tiger3807861189/J-Space-Cognition-Suite-V3.6](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.6) - J-Space Cognition Suite V3.6 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321
+- [Tiger3807861189/J-Space-Cognition-Suite-V3.7](https://github.com/Tiger3807861189/J-Space-Cognition-Suite-V3.7) - J-Space Cognition Suite V3.7 - AI cognitive-enhancement Skills based on Anthropic's J-space global workspace research. | 哔哩哔哩：Tiger380 (UID 3494375382321675) — https://space.bilibili.com/3494375382321
 - [lij768423-svg/grok-register-panel](https://github.com/lij768423-svg/grok-register-panel) - Grok 批量注册 (Camoufox) + 实时 Web 监控面板 | Batch Grok registration engine with live panel — concurrency · ASN blacklist · proxy pool · token auth
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.
 - [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem) - Permanent memory for AI agents. A 426-token prompt, a script, plug and play.
@@ -957,6 +957,7 @@
 
 ## Ruby 
 
+- [basecamp/writebook](https://github.com/basecamp/writebook) - 
 - [ekstranix/home-manager-option-search](https://github.com/ekstranix/home-manager-option-search) - Home Manager Option Search
 - [shelken/rime-auto-deploy](https://github.com/shelken/rime-auto-deploy) - Make using Rime easy.
 - [zuisong/homebrew-tap](https://github.com/zuisong/homebrew-tap) - my homebrew tap repository
@@ -1209,6 +1210,7 @@
 
 ## TypeScript 
 
+- [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Unified Virtual Filesystem For AI Agents
 - [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
 - [BytePioneer-AI/codex-host](https://github.com/BytePioneer-AI/codex-host) - Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
 - [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
