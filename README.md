@@ -1065,6 +1065,7 @@
 
 ## Shell 
 
+- [webcoyote/sandvault](https://github.com/webcoyote/sandvault) - Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [hexiecs/talk-normal](https://github.com/hexiecs/talk-normal) - Make any LLM talk like a normal person. A system prompt that removes AI slop.
@@ -1169,7 +1170,7 @@
 - [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - 
-- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The menu bar manager for macOS
+- [thaw-app/Thaw](https://github.com/thaw-app/Thaw) - The only app that owns your whole menu bar, in and out.
 - [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [TuringSoftware/CrystalFetch](https://github.com/TuringSoftware/CrystalFetch) - macOS UI for creating Windows installer ISO from UUPDump
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.
