@@ -796,7 +796,6 @@
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 - [Charles-0509/Grok-Register](https://github.com/Charles-0509/Grok-Register) - Grok free-register CLI: register → OAuth → CPA JSON (Go)
-- [ttttmr/pi-context](https://github.com/ttttmr/pi-context) - Letting AI Actively Manage Its Own Context
 - [Doriandarko/texts-to-transformer](https://github.com/Doriandarko/texts-to-transformer) - Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.
 - [HazAT/pi-config](https://github.com/HazAT/pi-config) - My personal pi coding agent configuration - skills and extensions
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
@@ -971,6 +970,7 @@
 
 ## Rust 
 
+- [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
@@ -1248,6 +1248,7 @@
 - [nicobailon/pi-intercom](https://github.com/nicobailon/pi-intercom) - Inter-session communication extension for pi coding agent
 - [QuintinShaw/pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows) - Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standin
 - [edlsh/pi-ask-user](https://github.com/edlsh/pi-ask-user) - Interactive decision-gating extension for pi — lets AI agents ask users questions with multiple-choice and freeform answers
+- [ttttmr/pi-context](https://github.com/ttttmr/pi-context) - Letting AI Actively Manage Its Own Context
 - [tuxevil/tuxevil-rotator](https://github.com/tuxevil/tuxevil-rotator) - Multi-provider, multi-account AI proxy rotator with per-model routing, quota tracking, and provider compatibility.
 - [majiayu000/profile-control-plane](https://github.com/majiayu000/profile-control-plane) - Compile a GitHub identity into an animated, dark/light, self-hosted profile README.
 - [jellydn/pi-clinepass-provider](https://github.com/jellydn/pi-clinepass-provider) - ClinePass provider for pi — 11 curated open-weight coding models (GLM-5.2, Kimi K2.7 Code, Kimi K3, DeepSeek V4, Qwen3.7, and more)
@@ -1261,7 +1262,7 @@
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [geminixiang/pi-simplify](https://github.com/geminixiang/pi-simplify) - /simplify - code reuse, quality, and efficiency review for pi coding agent
 - [chaogei/Kiro-account-manager](https://github.com/chaogei/Kiro-account-manager) - 
-- [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - Self-host AI agents with Claude Managed Agents and OpenAI Agents API support. Sessions, tools, subagents and recovery on your infrastructure. Apache 2.0.
+- [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - Open Managed Agents — an open-source alternative to Claude Managed Agents and OpenAI Agents API. Deploy with Node.js or Docker, run on Cloudflare, or use hosted OpenMA. Choose your models, harnesses a
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 - [ninehills/pi-commandcode-provider](https://github.com/ninehills/pi-commandcode-provider) - pi custom provider for the Command Code API — 18 models including Claude, GPT, DeepSeek, Kimi, GLM, MiniMax, and Qwen
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
@@ -1335,7 +1336,7 @@
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [foru17/neko-master](https://github.com/foru17/neko-master) - A modern and elegant dashboard for network traffic visualization and analysis.
-- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
+- [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [marcelpanse/tcg-pocket-collection-tracker](https://github.com/marcelpanse/tcg-pocket-collection-tracker) - Application to track your Pokemon Pocket collection and find others to trade with
@@ -1428,7 +1429,6 @@
 - [Everduin94/better-commits](https://github.com/Everduin94/better-commits) - A CLI for creating better commits following the conventional commits specification
 - [nextai-translator/nextai-translator](https://github.com/nextai-translator/nextai-translator) - 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [babaohuang/GeminiProChat](https://github.com/babaohuang/GeminiProChat) - Minimal web UI for GeminiPro.
-- [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [yourselfhosted/slash](https://github.com/yourselfhosted/slash) - An open source, self-hosted platform for sharing and managing your most frequently used links. Easily create customizable, human-readable shortcuts to streamline your link management.
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
@@ -1450,7 +1450,6 @@
 - [hqwuzhaoyi/gpt-subtitle](https://github.com/hqwuzhaoyi/gpt-subtitle) - 
 - [hyoban/obsidian-memos-plugin](https://github.com/hyoban/obsidian-memos-plugin) - 
 - [ryan4yin/nixos-and-flakes-book](https://github.com/ryan4yin/nixos-and-flakes-book) - :hammer_and_wrench: :heart: Want to know NixOS & Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place!  想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！
-- [lobehub/sd-webui-lobe-theme](https://github.com/lobehub/sd-webui-lobe-theme) - 🅰️ Lobe theme - The modern theme for stable diffusion webui, exquisite interface design, highly customizable UI, and efficiency boosting features.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
