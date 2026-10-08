@@ -270,7 +270,6 @@
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [qqqqqf-q/Arkloop](https://github.com/qqqqqf-q/Arkloop) - 干净、强大、属于你的 AI Agent 平台  --AI agents, without the clutter.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
-- [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A tiny agent runtime, composable with plugins.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [langbot-app/LangBot](https://github.com/langbot-app/LangBot) - Production-grade platform for building agentic IM bots - 生产级多平台智能机器人开发平台/ Agent、知识库编排、插件系统 / Bots for Discord / Slack / LINE / Telegram / WeChat(企业微信, 企微智能机器人, 公众号) / 飞书 / 钉钉 / QQ / Matrix e.g. Integr
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
@@ -299,12 +298,14 @@
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [a5c-ai/babysitter](https://github.com/a5c-ai/babysitter) - Babysitter enforces obedience on agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
+- [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A tiny agent runtime, composable with plugins.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
@@ -319,7 +320,6 @@
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [backnotprop/plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
-- [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A tiny agent runtime, composable with plugins.
 - [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -361,7 +361,6 @@
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitH
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
-- [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A tiny agent runtime, composable with plugins.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
@@ -440,7 +439,7 @@
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [dromara/liteflow](https://github.com/dromara/liteflow) - Lightweight, fast, stable, programmable component-based rule engine — where AI Agents orchestrate just like ordinary components. Uniquely designed DSL: component reuse, sync/async & dynamic orchestrat
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
 
@@ -476,6 +475,7 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
@@ -571,6 +571,7 @@
 - [net-benchmark/dns-benchmark-tool](https://github.com/net-benchmark/dns-benchmark-tool) - Fast, comprehensive DNS performance testing with DNSSEC validation, DoH/DoT support, and enterprise features
 - [leaperone/MultiPost-Extension](https://github.com/leaperone/MultiPost-Extension) - A browser extension that helps users publish content to multiple social media platforms with one click.
 - [ygsgdbd/TypeSwitch](https://github.com/ygsgdbd/TypeSwitch) - A macOS app that automatically switches input methods for different applications. 自动切换不同应用输入法的 macOS 应用。
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [ozgrozer/ai-renamer](https://github.com/ozgrozer/ai-renamer) - A Node.js CLI that uses Ollama and LM Studio models (Llava, Gemma, Llama etc.) to intelligently rename files by their contents
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [rishavnandi/ansible_homelab](https://github.com/rishavnandi/ansible_homelab) - Ansible playbooks to quickly setup a homelab.  The playbook will update the system, install Docker, and then deploy the Docker containers.
@@ -811,7 +812,7 @@
 - [nextlevelbuilder/ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) - An AI skill that provides design intelligence for building professional UI/UX across multiple platforms.
 - [uditgoenka/autoresearch](https://github.com/uditgoenka/autoresearch) - Claude Autoresearch Skill — Autonomous goal-directed iteration for Claude Code. Inspired by Karpathy's autoresearch. Modify → Verify → Keep/Discard → Repeat forever.
 - [tw93/Waza](https://github.com/tw93/Waza) - 🥷 Engineering habits you already know, turned into skills Claude can run.
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [slopus/happy](https://github.com/slopus/happy) - Happy is the open-source desktop app for Claude Code, Codex, and Grok, with an iOS and Android app to control your coding agents from anywhere.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
@@ -843,6 +844,7 @@
 
 ## cli 
 
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [stablyai/orca](https://github.com/stablyai/orca) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
@@ -857,6 +859,7 @@
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
+- [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A tiny agent runtime, composable with plugins.
 - [openclaw/imsg](https://github.com/openclaw/imsg) - CLI for Apple's Messages.app so your agent can send and receive text messages/iMessages.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -981,7 +984,6 @@
 
 ## crawler 
 
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
@@ -1619,7 +1621,7 @@
 
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [slopus/happy](https://github.com/slopus/happy) - Happy is the open-source desktop app for Claude Code, Codex, and Grok, with an iOS and Android app to control your coding agents from anywhere.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hslatman/caddy-crowdsec-bouncer](https://github.com/hslatman/caddy-crowdsec-bouncer) - A Caddy module that blocks malicious traffic based on decisions made by CrowdSec.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -2043,7 +2045,7 @@
 
 ## mac 
 
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling and scrolling window manager for macos
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [didriksg/Crisp](https://github.com/didriksg/Crisp) - Every display control macOS hides, in one menu bar app: sharp HiDPI/Retina scaling (no more blurry or tiny text), DDC brightness and volume, Extra Brightness past 100%, presets, virtual displays. Free
 - [OmniNull/OmniWM](https://github.com/OmniNull/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -2072,10 +2074,11 @@
 
 ## macos 
 
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [webcoyote/sandvault](https://github.com/webcoyote/sandvault) - Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.
 - [omacom/try-omarchy](https://github.com/omacom/try-omarchy) - Run Omarchy on MacOS without any setup.
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling and scrolling window manager for macos
+- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling window manager for macos
 - [HOLODATA-COM/SiriRemoteForge](https://github.com/HOLODATA-COM/SiriRemoteForge) - Turn a 3rd-gen Apple TV Siri Remote into a fully programmable macOS controller — remap every input via a hot-reloading config, with per-app profiles, layers, trackpad cursor control, and an experiment
 - [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac) - Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
 - [cyrus-cai/notchi](https://github.com/cyrus-cai/notchi) - Ask AI, take a note, or set a reminder right from your Mac's notch. Native & Design-first.
@@ -2214,6 +2217,7 @@
 - [ThinkInAIXYZ/deepchat](https://github.com/ThinkInAIXYZ/deepchat) - 🐬DeepChat - A smart assistant that connects powerful AI to your personal world
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码v2.0，一句话即可生成整个系统】企业级AI低代码平台，一键生成前后端代码甚至整个系统。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提高效率又不失
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
@@ -2511,6 +2515,8 @@
 
 ## others 
 
+- [mikeatlas/omp-sbx](https://github.com/mikeatlas/omp-sbx) - Run the oh-my-pi (omp) coding agent inside a Docker sbx sandbox
+- [nikvdp/cco](https://github.com/nikvdp/cco) - A thin protective layer for Claude Code
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [Mak5er/AirCard](https://github.com/Mak5er/AirCard) - Apple Wallet Card Skinner for iOS 18+ (No Jailbreak Required)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
@@ -2552,7 +2558,7 @@
 - [Chasen-Liao/resume-skills](https://github.com/Chasen-Liao/resume-skills) - 一句话通过Agent生成精美风格的简历skills，还可以匹配对应的JD
 - [ali-rantakari/trash](https://github.com/ali-rantakari/trash) - Small command-line program for OS X that moves files or folders to the trash.
 - [uf-hy/cpa-plugin-codexcomp](https://github.com/uf-hy/cpa-plugin-codexcomp) - CLIProxyAPI plugin that detects and repairs gpt-5.5 reasoning truncation (518n−2 pattern) via encrypted_content replay and multi-round folding
-- [jellydn/pi-clinepass-provider](https://github.com/jellydn/pi-clinepass-provider) - ClinePass provider for pi — 11 curated open-weight coding models (GLM-5.2, Kimi K2.7 Code, Kimi K3, DeepSeek V4, Qwen3.7, and more)
+- [jellydn/pi-clinepass-provider](https://github.com/jellydn/pi-clinepass-provider) - ClinePass provider for pi — 12 curated coding models (GLM-5.3, Kimi K3, DeepSeek V4.1 Flash, Muse Spark 1.3 Contributor, Qwen3.8 Max, and more) through Cline's $9.99/month subscription with 2-5x the u
 - [Serhioromano/pi-defender](https://github.com/Serhioromano/pi-defender) - Defense-in-depth protection for Pi coding agent. Blocks dangerous commands and protects sensitive files via Pi extensions.
 - [home-operations/flate](https://github.com/home-operations/flate) - A Flux resource validator and inflator ⇄
 - [timsaya/luci-app-bandix](https://github.com/timsaya/luci-app-bandix) - A network traffic monitoring application for OpenWrt
@@ -3078,6 +3084,7 @@
 
 ## privacy 
 
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternativ
 - [net-benchmark/dns-benchmark-tool](https://github.com/net-benchmark/dns-benchmark-tool) - Fast, comprehensive DNS performance testing with DNSSEC validation, DoH/DoT support, and enterprise features
@@ -3099,7 +3106,6 @@
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [alyssaxuu/screenity](https://github.com/alyssaxuu/screenity) - The free and privacy-friendly screen recorder with no limits 🎥
-- [feder-cr/invisible_playwright_mcp](https://github.com/feder-cr/invisible_playwright_mcp) - Playwright MCP server undetected by anti-bots and captchas: AI agent browses the web on anti-detect stealth Firefox, Python, undetected browser automation, scraping, computer use.
 - [guarinogabriel/Mac-CLI](https://github.com/guarinogabriel/Mac-CLI) -  macOS command line tool for developers – The ultimate tool to manage your Mac. It provides a huge set of command line commands that automatize the usage of your Mac.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
@@ -3330,7 +3336,6 @@
 - [zeronsh/zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
 - [egoist/waku](https://github.com/egoist/waku) - ⚡ A native app for all your coding agents.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
-- [acsandmann/rift](https://github.com/acsandmann/rift) - a tiling and scrolling window manager for macos
 - [0xPlaygrounds/rig](https://github.com/0xPlaygrounds/rig) - ⚙️🦀 Build modular and scalable LLM Applications in Rust
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [nowledge-co/con-terminal](https://github.com/nowledge-co/con-terminal) - The Native Terminal Emulator with a builtin AI Harness
@@ -3421,6 +3426,7 @@
 
 - [TannerMidd/pi-pocket](https://github.com/TannerMidd/pi-pocket) - A durable, multiplayer, mobile-first web app for Pi agents, built on Pi Durable
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
+- [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A tiny agent runtime, composable with plugins.
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A secure persistent personal agent server in Rust. One binary, sandboxed execution, multi-provider LLMs, voice, memory, Telegram, WhatsApp, Discord, Teams, and MCP tools. Secure by design, runs on you
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
@@ -3432,6 +3438,7 @@
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
 - [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [blinkospace/blinko](https://github.com/blinkospace/blinko) - An open-source, self-hosted personal AI note tool prioritizing privacy, built using TypeScript .
+- [feder-cr/invisible_dots](https://github.com/feder-cr/invisible_dots) - Open-source, self-hosted alternative to OpenAI Dots, Grok Bot. Built to be undetectable by anti-bot systems.
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
@@ -3569,6 +3576,7 @@
 
 ## swift 
 
+- [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Debloat macOS: turn off Apple Intelligence, analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
 - [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
 - [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
@@ -3688,7 +3696,7 @@
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [yufeikang/ai-cli](https://github.com/yufeikang/ai-cli) - This CLI tool allows you to easily use chatGPT in the command line. You can chat with it, ask it questions, and get text translations. It also supports rendering Markdown in the terminal.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 600 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 
 ## terraform 
