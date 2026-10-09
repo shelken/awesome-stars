@@ -82,6 +82,7 @@
 
 ## C 
 
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [missuo/herdrm](https://github.com/missuo/herdrm) - Native macOS console for herdr — all your coding agents and their live terminals, across devices
 - [Jack-R1/SiriRemoteVoiceDecoder](https://github.com/Jack-R1/SiriRemoteVoiceDecoder) - Apple TV 4th Generation Remote (SiriRemote) Opus Voice Decoder for macOS
 - [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
@@ -186,6 +187,8 @@
 
 ## Go 
 
+- [nekomeowww/rc](https://github.com/nekomeowww/rc) - ☁️💻 I don't like agent sandboxes, they are not that persistance, scalable and performant. Try the rc style, Remote Computer? Remote Control? Remote Coding? Rollout Coding agent? You can have them here
+- [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with a web frontend or native UI in Go
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
@@ -220,7 +223,7 @@
 - [DEVmachine-fr/cert-manager-alidns-webhook](https://github.com/DEVmachine-fr/cert-manager-alidns-webhook) - Cert-manager webhook to generate Let's Encrypt certificates over Alibaba Cloud DNS.
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 - [looplj/axonhub](https://github.com/looplj/axonhub) - ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing.
-- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices, users, and agents into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
 - [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [charmbracelet/log](https://github.com/charmbracelet/log) - A minimal, colorful Go logging library 🪵
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -979,6 +982,7 @@
 
 ## Rust 
 
+- [microsoft/mxc](https://github.com/microsoft/mxc) - Policy-driven, layered isolation and containment
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [zeronsh/zeron](https://github.com/zeronsh/zeron) - A native control plane for Claude Code, Codex, Cursor, Devin and other coding agents.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
