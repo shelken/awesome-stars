@@ -12,7 +12,6 @@
 - [AutoHotkey](#autohotkey)
 - [Batchfile](#batchfile)
 - [Bicep](#bicep)
-- [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -87,10 +86,6 @@
 ## Bicep 
 
 - [Azure/gitops-flux2-kustomize-helm-mt](https://github.com/Azure/gitops-flux2-kustomize-helm-mt) - example repo for gitops with flux v2 cloned from the fluxcd project (https://github.com/fluxcd/flux2-kustomize-helm-example) and updated to work with multi-tenancy
-
-## Brainfuck 
-
-- [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 软路由固件
 
 ## C 
 
@@ -1008,6 +1003,8 @@
 
 ## Rust 
 
+- [ashayas/icloud-s3](https://github.com/ashayas/icloud-s3) - An S3-compatible object store backed by iCloud Shared Photo Albums. Quota policy: Apple's Shared Album loophole.
+- [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [Cnotech/cloud139](https://github.com/Cnotech/cloud139) - 中国移动云盘 CLI
 - [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [metasequoiaime/msime](https://github.com/metasequoiaime/msime) - 下一代跨平台水杉输入法（MSIME）：面向 Android、iOS、macOS、Linux、Windows 与 HarmonyOS 的多平台中文输入法，使用共享输入引擎与各平台原生宿主。
@@ -1187,6 +1184,7 @@
 - [Jeffery186/newifi3-d2-openwrt](https://github.com/Jeffery186/newifi3-d2-openwrt) - 新三路由器openwrt固件
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [TheCrypt0/yi-hack-v4](https://github.com/TheCrypt0/yi-hack-v4) - New Custom Firmware for Xiaomi Cameras based on Hi3518e Chipset. It features RTSP, SSH, FTP and more!
+- [kiddin9/Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 软路由固件
 - [daliansky/Hackintosh](https://github.com/daliansky/Hackintosh) - Hackintosh long-term maintenance model EFI and installation tutorial
 - [lgs3137/MR_S1-macOS](https://github.com/lgs3137/MR_S1-macOS) - 机械革命S1（MSI PS42 8RB） for macOS Monterey & Big Sur
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 850 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
