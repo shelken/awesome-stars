@@ -705,6 +705,7 @@
 ## Others 
 
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
+- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Omarchy for Apple Silicon is now an official Omacom solution, part of Omarchy itself. Install it from omarchy.org/manual/mac-support
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
@@ -1128,7 +1129,6 @@
 - [nikkinikki-org/OpenWrt-momo](https://github.com/nikkinikki-org/OpenWrt-momo) - Transparent Proxy with sing-box on OpenWrt.
 - [mikeatlas/omp-sbx](https://github.com/mikeatlas/omp-sbx) - Run the oh-my-pi (omp) coding agent inside a Docker sbx sandbox
 - [nikvdp/cco](https://github.com/nikvdp/cco) - A thin protective layer for Claude Code
-- [omacom/omarchy-mac](https://github.com/omacom/omarchy-mac) - Omarchy for Apple Silicon is now an official Omacom solution, part of Omarchy itself. Install it from omarchy.org/manual/mac-support
 - [webcoyote/sandvault](https://github.com/webcoyote/sandvault) - Run AI agents isolated in a macOS user account and sandbox-exec. Configured to run Claude Code, OpenAI Codex, Cursor Agent, Google Gemini.
 - [tobi/try](https://github.com/tobi/try) - fresh directories for every vibe
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -1545,7 +1545,7 @@
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Your Personal AI-Powered Information Hub
 - [gnehs/subtitle-translator-electron](https://github.com/gnehs/subtitle-translator-electron) - ↔️ Translate subtitle using LLM
 - [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
-- [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 基于 LLM 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
+- [nextai-translator/bob-plugin-openai-translator](https://github.com/nextai-translator/bob-plugin-openai-translator) - 使用 OpenAI、Claude、Gemini、MiniMax 或 OpenAI 兼容 API 翻译、润色和修正语法的 Bob 插件，让我们一起迎接不需要巴别塔的新时代！
 - [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo) - Minimal web UI for ChatGPT.
 - [nhaouari/obsidian-textgenerator-plugin](https://github.com/nhaouari/obsidian-textgenerator-plugin) - Text Generator is a versatile plugin for Obsidian that allows you to generate text content using various AI providers, including OpenAI, Anthropic, Google and local models.
 - [zu1k/book-searcher](https://github.com/zu1k/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
