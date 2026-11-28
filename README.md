@@ -88,7 +88,6 @@
 - [input-output-hk/nix-linux-builder](https://github.com/input-output-hk/nix-linux-builder) - Open-source Linux VM builder for nix on macOS using Virtualization.framework
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [missuo/herdrm](https://github.com/missuo/herdrm) - Native macOS console for herdr — all your coding agents and their live terminals, across devices
-- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [Jack-R1/SiriRemoteVoiceDecoder](https://github.com/Jack-R1/SiriRemoteVoiceDecoder) - Apple TV 4th Generation Remote (SiriRemote) Opus Voice Decoder for macOS
 - [QwenAudio/SenseVoice](https://github.com/QwenAudio/SenseVoice) - Open-source SenseVoiceSmall model for Mandarin, Cantonese, English, Japanese, and Korean ASR, language ID, emotion recognition, and audio event detection.
 - [aarond10/https_dns_proxy](https://github.com/aarond10/https_dns_proxy) - A lightweight DNS-over-HTTPS proxy.
@@ -97,7 +96,6 @@
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [FelixKratz/JankyBorders](https://github.com/FelixKratz/JankyBorders) - A lightweight window border system for macOS
-- [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 超低成本硬件短信转发器，支持移动联通电信，ML307R+ESP32C3
 - [hihkm/DanmakuFactory](https://github.com/hihkm/DanmakuFactory) - 支持特殊弹幕的xml转ass格式转换工具
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [x-wrt/x-wrt](https://github.com/x-wrt/x-wrt) - This repository is a fork of https://git.openwrt.org/openwrt/openwrt.git
@@ -168,7 +166,7 @@
 
 ## Dart 
 
-- [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+- [Vialibrex/FlClash](https://github.com/Vialibrex/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
 - [ente/ente](https://github.com/ente/ente) - 💚 End-to-end encrypted cloud for everything.
 - [JeoJay127/RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool) - An excellent one-click EFI configuration tool based on OpenCore
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -192,13 +190,13 @@
 ## Go 
 
 - [electrikmilk/cherri](https://github.com/electrikmilk/cherri) - Siri Shortcuts Programming Language 🍒
-- [21stware/bowel](https://github.com/21stware/bowel) - Bowel is a mihomo client for macOS, Windows, Linux and Android.
+- [21stware/bowel](https://github.com/21stware/bowel) - Native mihomo (Clash Meta) client for macOS, Windows, Linux & Android: GPU-rendered Go UI, no Electron or WebView. Rules, TUN, gateway mode, CLI/TUI and a built-in MCP server.
 - [swipt-automation/swipt](https://github.com/swipt-automation/swipt) - The universal iOS automation platform
 - [DIYgod/pinky](https://github.com/DIYgod/pinky) - Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.
 - [zhf883680/clash-traffic-monitor](https://github.com/zhf883680/clash-traffic-monitor) - 一个 clash 流量监控工具  适配 mihomo 内核 go 语言编写
 - [nekomeowww/rc](https://github.com/nekomeowww/rc) - ☁️💻 I don't like agent sandboxes, they are not that persistance, scalable and performant. Try the rc style, Remote Computer? Remote Control? Remote Coding? Rollout Coding agent? You can have them here
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
-- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+- [yetone/magpie](https://github.com/yetone/magpie) - Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.
 - [google/ax](https://github.com/google/ax) - Agent Executor (AX) is Google's open agentic orchestration runtime
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
@@ -214,7 +212,7 @@
 - [qqqqqf-q/Arkloop](https://github.com/qqqqqf-q/Arkloop) - 干净、强大、属于你的 AI Agent 平台  --AI agents, without the clutter.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - why use many token when few token do trick. Skill + local proxy for coding agents: shorter answers, smaller tool output, every original recoverable.
-- [multica-ai/multica](https://github.com/multica-ai/multica) - Make humans and AI agents work as one team — open-source and self-hostable.
+- [multica-ai/multica](https://github.com/multica-ai/multica) - Shared task board where people and AI coding agents work as teammates. Source-available, self-hostable.
 - [sardanioss/httpcloak](https://github.com/sardanioss/httpcloak) - Go HTTP client with browser-identical TLS/HTTP2 fingerprinting. Bypass bot detection by perfectly mimicking Chrome, Firefox, and Safari at the cryptographic level (JA3/JA4, Akamai fingerprint, header 
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
@@ -226,6 +224,7 @@
 - [kagent-dev/kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Serie
 - [nxtrace/NTrace-core](https://github.com/nxtrace/NTrace-core) - NextTrace, an open source visual route tracking CLI tool
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [hslatman/caddy-crowdsec-bouncer](https://github.com/hslatman/caddy-crowdsec-bouncer) - A Caddy module that blocks malicious traffic based on decisions made by CrowdSec.
 - [kdwils/envoy-proxy-crowdsec-bouncer](https://github.com/kdwils/envoy-proxy-crowdsec-bouncer) - A lightweight Crowdsec remediation component for envoy proxy and envoy gateway
 - [mmulet/term.everything](https://github.com/mmulet/term.everything) - Run any GUI app in the terminal❗
@@ -259,6 +258,7 @@
 - [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [velero-io/velero](https://github.com/velero-io/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [TwiN/gatus](https://github.com/TwiN/gatus) - Automated developer-oriented status page with alerting and incident support
+- [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application
 - [rancher/system-upgrade-controller](https://github.com/rancher/system-upgrade-controller) - In your Kubernetes, upgrading your nodes
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
@@ -382,7 +382,7 @@
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [asahi-alarm/asahi-alarm](https://github.com/asahi-alarm/asahi-alarm) - 
 - [QiuChenly/CoreInject](https://github.com/QiuChenly/CoreInject) - 搞快点
-- [davesc63/GeoPort](https://github.com/davesc63/GeoPort) - GeoPort: Your Location, Anywhere! The iOS location simulator
+- [GeoPortApp/geoport-desktop](https://github.com/GeoPortApp/geoport-desktop) - GeoPort Desktop — Open-Source Location Simulation Suite for macOS, Windows & Linux (iOS 17 – iOS 26+)
 - [Ceelog/DictionaryByGPT4](https://github.com/Ceelog/DictionaryByGPT4) - 一本 GPT4 生成的单词书📚，超过 8000 个单词分析，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事
 - [yannbertrand/macos-defaults](https://github.com/yannbertrand/macos-defaults) - Incomplete list of macOS `defaults` commands with demos ✨
 - [mengkunsoft/OneQRCode](https://github.com/mengkunsoft/OneQRCode) - 📱 微信、支付宝、QQ 三合一收款二维码（单文件版）
@@ -392,6 +392,7 @@
 - [ImageOptim/ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI image optimizer for Mac
 - [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE) - BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+- [chenxuuu/sms_forwarding](https://github.com/chenxuuu/sms_forwarding) - 低成本硬件短信转发器，支持eSIM管理，ML307+ESP32C3。 low cost sms forwarding hardware
 - [ZutJoe/KoalaHackerNews](https://github.com/ZutJoe/KoalaHackerNews) - Koala hacker news 周报内容 每周二0点左右更新
 - [CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack) - Card-style Hugo theme designed for bloggers
 - [DIYgod/hexo-theme-sagiri](https://github.com/DIYgod/hexo-theme-sagiri) - :cake: As lovely as sagiri
@@ -456,7 +457,7 @@
 
 ## JavaScript 
 
-- [TriDefender/zcode-api](https://github.com/TriDefender/zcode-api) - A reverse proxy-ish that delegates your requests to bigmodel.cn or z.ai. This uses the same oauth login process like zcode did, would work on start-plan or coding plans, but it's all about the 1.5x us
+- [TriDefender/zcode-api](https://github.com/TriDefender/zcode-api) - THEY REMOVED THE 1.5X BONUS AND BANNED ME FROM STARTPLAN FUCK YOU TANG JIE
 - [MAXeaglet/commandcode-proxy](https://github.com/MAXeaglet/commandcode-proxy) - Command Code API 反代代理，兼容 OpenAI 与 Anthropic 接口 | Reverse proxy exposing Command Code API as OpenAI- and Anthropic-compatible endpoints
 - [citrolabs/ego-lite](https://github.com/citrolabs/ego-lite) - The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero conf
 - [chavyleung/scripts](https://github.com/chavyleung/scripts) - BoxJs
@@ -465,7 +466,7 @@
 - [Chasen-Liao/resume-skills](https://github.com/Chasen-Liao/resume-skills) - 一句话通过Agent生成精美风格的简历skills，还可以匹配对应的JD
 - [Yu9191/wloc](https://github.com/Yu9191/wloc) - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
 - [timsaya/luci-app-bandix](https://github.com/timsaya/luci-app-bandix) - A network traffic monitoring application for OpenWrt
-- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into an interactive diagram or one-page answer: 10 diagram types, Architecture Diagnosis, Story video and PR walkthroughs. An Agent Skill for Claude Code, Codex, Curso
 - [diegopetrucci/pi-extensions](https://github.com/diegopetrucci/pi-extensions) - A collection of pi extensions I made
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins
 - [NikiforovAll/pi-inspect](https://github.com/NikiforovAll/pi-inspect) - Introspection dashboard for the pi coding agent — tools, prompts, skills, and the system prompt injected on init.
@@ -785,7 +786,6 @@
 - [SnoW-Wei/Dash-dcsets-CN](https://github.com/SnoW-Wei/Dash-dcsets-CN) - Dash中文文档
 - [zq99299/repository-summary](https://github.com/zq99299/repository-summary) - 仓库/笔记 越来越多，本人一些质量还不错的项目/笔记汇总
 - [lingcoder/OnJava8](https://github.com/lingcoder/OnJava8) - 《On Java 8》中文版
-- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [hansonwang99/JavaCollection](https://github.com/hansonwang99/JavaCollection) - Java开源项目之「自学编程之路」：学习指南+面试指南+资源分享+技术文章
 - [corpnewt/Hackintosh-Guide](https://github.com/corpnewt/Hackintosh-Guide) - 
 - [chuangll/Python-NaoTu-PDF](https://github.com/chuangll/Python-NaoTu-PDF) - 「数据科学」思维导图笔记。
@@ -815,6 +815,7 @@
 
 ## Python 
 
+- [nickrunning/wechat-selkies](https://github.com/nickrunning/wechat-selkies) - 基于Selkies的Linux网页版微信/QQ，支持AI Agent Skills操作微信，支持本地中文输入法，支持AMD64和ARM64。
 - [peach-mitao/peach](https://github.com/peach-mitao/peach) - Peach: Local-first video metadata scraper and media manager.
 - [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 - [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) - Build voice agents with open-source models
@@ -831,6 +832,7 @@
 - [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) - Rebuild the object in a reference image as a code-only, procedural, quality-gated, animation-ready Three.js model. Token-efficient image-to-3D.
 - [Charles-0509/Grok-Register](https://github.com/Charles-0509/Grok-Register) - Grok free-register CLI: register → OAuth → CPA JSON (Go)
 - [Doriandarko/texts-to-transformer](https://github.com/Doriandarko/texts-to-transformer) - Train a tiny Transformer from scratch on your iMessage history, entirely on your Mac.
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [HazAT/pi-config](https://github.com/HazAT/pi-config) - My personal pi coding agent configuration - skills and extensions
 - [leonardomso/rust-skills](https://github.com/leonardomso/rust-skills) - A collection of 265 rules across 26 categories that AI coding agents can use to write   idiomatic, fast, and safe Rust.
 - [m87-labs/moondream](https://github.com/m87-labs/moondream) - tiny vision language model
@@ -894,7 +896,7 @@
 - [ZHO-ZHO-ZHO/ComfyUI-Gemini](https://github.com/ZHO-ZHO-ZHO/ComfyUI-Gemini) - Using Gemini in ComfyUI
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
-- [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [bilibili/GPT-SoVITS](https://github.com/bilibili/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [karminski/one-small-step](https://github.com/karminski/one-small-step) - 这是一个简单的技术科普教程项目，主要聚焦于解释一些有趣的，前沿的技术概念和原理。每篇文章都力求在 5 分钟内阅读完成。
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
@@ -996,8 +998,9 @@
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
 - [LjyYano/Thinking_in_Java_MindMapping](https://github.com/LjyYano/Thinking_in_Java_MindMapping) - 编程笔记、 AI 学习、观影指南、读书笔记、生活感悟、游戏记录
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - The AI local media metadata crawler
+- [mvdctop/Movie_Data_Capture](https://github.com/mvdctop/Movie_Data_Capture) - MDC - The AI local media metadata crawler
 - [soimort/you-get](https://github.com/soimort/you-get) - :arrow_double_down: Dumb downloader that scrapes the web
 
 ## Ruby 
@@ -1173,7 +1176,7 @@
 - [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [xubiaolin/docker-zerotier-planet](https://github.com/xubiaolin/docker-zerotier-planet) - 一分钟私有部署zerotier-planet服务
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,600+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [DeppWang/Tools](https://github.com/DeppWang/Tools) - 🔧 推荐我使用过的、觉得还不错的软件工具，涉及 AI / macOS / iOS / Chrome 插件等。
 - [ivanhao/pvetools](https://github.com/ivanhao/pvetools) - proxmox ve tools script(debian9+ can use it).Including email, samba, NFS set zfs max ram, nested virtualization ,docker , pci passthrough etc. for english user,please look the end of readme.
 - [ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian) - Supports running Armbian on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
@@ -1208,6 +1211,7 @@
 
 ## Swift 
 
+- [swipt-automation/Swipterm](https://github.com/swipt-automation/Swipterm) - A Linux environment and Ghostty-based terminal for iOS.
 - [Augani/dory](https://github.com/Augani/dory) - Dory is the complete local development system for Apple Silicon: Docker, Compose, Kubernetes, virtual machines, and policy-bound agent sandboxes.
 - [OpenMinis/iCTRL](https://github.com/OpenMinis/iCTRL) - An AI-friendly iOS/iPadOS automation testing tool built on XCUITest, but more than a testing tool: agents like Codex, Claude Code, Hermes, OpenClaw and Minis can operate your iPhone or iPad wirelessly
 - [omlahore/RemoveMacAI](https://github.com/omlahore/RemoveMacAI) - Turn off Apple Intelligence and delete its models on your Mac. Optional tweaks for analytics, ads and pop-ups. A native app and CLI, and every change can be undone.
@@ -1231,7 +1235,7 @@
 - [maria-rcks/miri](https://github.com/maria-rcks/miri) - Niri-ish, keyboard-first window manager for macOS.
 - [lauschue/Remotastic](https://github.com/lauschue/Remotastic) - Remotastic is a macOS menu bar app that lets you control your Mac with an Apple TV Siri Remote, providing cursor movement, scrolling, and customizable button mappings for media control and navigation.
 - [nickustinov/itsytv-macos](https://github.com/nickustinov/itsytv-macos) - The missing Apple TV remote app for macOS
-- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard &gt;&gt; new release soon!
+- [kamillobinski/thock](https://github.com/kamillobinski/thock) - THOCK your mac keyboard &gt;&gt; new release on 29.11
 - [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [robinebers/openusage](https://github.com/robinebers/openusage) - Burning through your subscriptions too fast? Paying for stuff you never use? Stop guessing. OpenUsage is free and open source.
 - [Lakr233/vphone-cli](https://github.com/Lakr233/vphone-cli) - Run a virtual iPhone on an Apple Silicon Mac.
@@ -1310,7 +1314,7 @@
 - [arpagon/pi-rewind](https://github.com/arpagon/pi-rewind) - Checkpoint/rewind extension for the Pi coding agent. 1 checkpoint per turn, /rewind command, diff preview, safe restore, redo stack.
 - [strukto-ai/mirage](https://github.com/strukto-ai/mirage) - The World's First Virtual Terminal for AI Agents
 - [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop) - Opinionated Oxlint rules for rejecting low-evidence TypeScript and JavaScript patterns
-- [BytePioneer-AI/codex-host](https://github.com/BytePioneer-AI/codex-host) - Run Pi and Claude Code directly in Codex Desktop. 在 Codex Desktop 中直接运行 Pi 和 Claude Code。
+- [BytePioneer-AI/codex-host](https://github.com/BytePioneer-AI/codex-host) - CodexHost — Run 18+ coding agents (Claude Code, Pi, Grok, Codex...) in one workspace across desktop, web & mobile. 在 Codex 里调度所有编程 Agent。
 - [binaricat/Netcatty](https://github.com/binaricat/Netcatty) - SSH workspace, SFTP, and terminals in one
 - [jhochenbaum/herdr-hunk-diff](https://github.com/jhochenbaum/herdr-hunk-diff) - Review agent-authored changes in hunk from herdr and send inline comments back to the responsible agent.
 - [justhil/pi-app](https://github.com/justhil/pi-app) - Desktop app for the pi coding agent: streaming timeline, Git review with hunk staging, session tree, native UI for pi extensions. Windows · macOS · Linux. pi 编程 Agent 桌面客户端
@@ -1424,7 +1428,6 @@
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - MCP Router — development, support and security updates ended 2026-09-18. Historical source and final release for existing users.
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) - MCP Aggregator, Orchestrator, Middleware, Gateway in one docker
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Share files nearby and beyond.
 - [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first web and product analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud.
 - [maoxiaoke/r2Uploader](https://github.com/maoxiaoke/r2Uploader) - User-friendly GUI application for Cloudflare R2
@@ -1443,7 +1446,6 @@
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 - [emuell/restic-browser](https://github.com/emuell/restic-browser) - A GUI to browse and restore restic backup repositories.
-- [0x2E/fusion](https://github.com/0x2E/fusion) - A lightweight, self-hosted friendly RSS reader
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard. All your clusters. One workspace.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - One local control plane for every AI agent: route across models, fuse new capabilities, orchestrate tools, and stay fully in control.
